@@ -1,0 +1,283 @@
+########################################################################
+#  DATA CLEANING & VISUALIZATION PROJECT
+########################################################################
+Using the existing raw dataset: /home/claude/Data_Cleaning_Visualization/dataset/raw_data.csv
+
+========================================================================
+STEP 1: Load the raw dataset
+========================================================================
+Loaded: /home/claude/Data_Cleaning_Visualization/dataset/raw_data.csv
+
+========================================================================
+STEP 2: First five rows of the RAW data
+========================================================================
+  student_id    student_name  gender   age school_type parental_education internet_access extra_classes  study_hours_per_week attendance_percent  previous_score  math_score  science_score  english_score   exam_date data_entry_operator internal_remarks     record_source
+0    STU1312  Revathi Sharma  FEMALE  15.0  Government            Diploma              No             y                  10.1               88.6            66.1         NaN           59.0           53.7  2026-03-18               OP-01     Form scanned  Survey_Form_2026
+1    STU1398     Sanjay Nair       m  18.0  Government        HIGH SCHOOL              NO           Yes                  22.7               88.8            48.2        51.0           58.6           60.1  2026-03-08               OP-03              NaN  Survey_Form_2026
+2    STU1007    Dinesh Reddy  female  17.0  Government         Bachelor's               N            NO                  15.7               73.6            55.5        60.4           54.9           45.6  26/03/2026               OP-03       Re-checked  Survey_Form_2026
+3    STU1185     Swathi Bose    Male  16.0     Private         Bachelor's             Yes           Yes                   4.6               89.8            52.7        45.5           50.3           47.5  2026-03-09               OP-03              NaN  Survey_Form_2026
+4    STU1079    Dinesh Reddy  Female  16.0     Private         Bachelor's             Yes            no                  24.2               73.9            73.4        74.4           83.8           78.0  24-03-2026               OP-03       Re-checked  Survey_Form_2026
+
+========================================================================
+STEP 3: Number of rows and columns (RAW data)
+========================================================================
+Rows: 526   Columns: 18
+
+========================================================================
+STEP 4: Identify missing values (raw data)
+========================================================================
+              column  missing_count  missing_percent
+    internal_remarks            231            43.92
+study_hours_per_week             28             5.32
+       english_score             28             5.32
+              gender             27             5.13
+       science_score             27             5.13
+     internet_access             26             4.94
+          math_score             26             4.94
+                 age             26             4.94
+  parental_education             26             4.94
+      previous_score             25             4.75
+  attendance_percent             25             4.75
+
+Total missing cells: 495
+
+========================================================================
+STEP 6a: Identify and remove exact duplicate records
+========================================================================
+Exact duplicate rows found and removed: 20
+Rows remaining: 506
+
+========================================================================
+STEP 8: Correct inconsistent data formats
+========================================================================
+Converted all numeric columns to numbers (removed '%' signs and spaces).
+  gender: 11 different spellings -> 2 standard labels
+  internet_access: 10 different spellings -> 2 standard labels
+  extra_classes: 10 different spellings -> 2 standard labels
+  school_type: 18 different spellings -> 3 standard labels
+  parental_education: 19 different spellings -> 4 standard labels
+  exam_date: 5 different date styles -> one date format (YYYY-MM-DD)
+  Impossible values set to missing (will be filled in STEP 5):
+    age: 3 value(s) outside 10-30
+    attendance_percent: 4 value(s) outside 0-100
+    math_score: 3 value(s) outside 0-100
+    science_score: 2 value(s) outside 0-100
+    english_score: 2 value(s) outside 0-100
+
+========================================================================
+STEP 6b: Remove duplicate student IDs (re-typed records)
+========================================================================
+Re-typed duplicate records removed (same student_id): 6
+Rows remaining: 500
+
+========================================================================
+STEP 5: Handle missing values
+========================================================================
+Missing cells now (after format fixes): 483
+  age: filled 28 value(s) with the median = 17.0
+  study_hours_per_week: filled 25 value(s) with the median = 17.1
+  attendance_percent: filled 29 value(s) with the median = 85.1
+  previous_score: filled 25 value(s) with the median = 54.8
+  math_score: filled 28 value(s) with the median = 58.2
+  science_score: filled 27 value(s) with the median = 59.0
+  english_score: filled 27 value(s) with the median = 57.9
+  gender: filled 25 value(s) with the mode = Male
+  parental_education: filled 25 value(s) with the mode = High School
+  internet_access: filled 25 value(s) with the mode = Yes
+
+Missing cells left in the analysis columns: 0
+
+========================================================================
+STEP 7: Detect and handle outliers (IQR method, values are capped)
+========================================================================
+  study_hours_per_week: limits [-3.0, 37.8] -> 18 outlier(s) capped
+  attendance_percent: limits [63.2, 107.0] -> 2 outlier(s) capped
+  previous_score: limits [24.3, 86.7] -> 8 outlier(s) capped
+  math_score: limits [30.4, 88.5] -> 10 outlier(s) capped
+  science_score: limits [30.1, 88.2] -> 10 outlier(s) capped
+  english_score: limits [27.5, 88.4] -> 8 outlier(s) capped
+
+========================================================================
+STEP 9: Remove unnecessary columns
+========================================================================
+Dropped columns: ['student_name', 'data_entry_operator', 'internal_remarks', 'record_source']
+
+========================================================================
+STEP 10: Save the cleaned dataset as CSV
+========================================================================
+Saved: /home/claude/Data_Cleaning_Visualization/dataset/cleaned_data.csv
+Cleaning report saved: /home/claude/Data_Cleaning_Visualization/outputs/cleaning_report.json
+
+========================================================================
+DATASET AFTER CLEANING: first five rows
+========================================================================
+  student_id  gender  age school_type parental_education internet_access extra_classes  study_hours_per_week  attendance_percent  previous_score  math_score  science_score  english_score  exam_date  average_score grade study_level
+0    STU1312  Female   15  Government            Diploma              No           Yes                  10.1                88.6            66.1        58.2           59.0           53.7 2026-03-18          56.97     C      Medium
+1    STU1398    Male   18  Government        High School              No           Yes                  22.7                88.8            48.2        51.0           58.6           60.1 2026-03-08          56.57     C        High
+2    STU1007  Female   17  Government         Bachelor's              No            No                  15.7                73.6            55.5        60.4           54.9           45.6 2026-03-26          53.63     C      Medium
+3    STU1185    Male   16     Private         Bachelor's             Yes           Yes                   4.6                89.8            52.7        45.5           50.3           47.5 2026-03-09          47.77     D         Low
+4    STU1079  Female   16     Private         Bachelor's             Yes            No                  24.2                73.9            73.4        74.4           83.8           78.0 2026-03-24          78.73     A        High
+
+Rows: 500   Columns: 17
+
+========================================================================
+BEFORE vs AFTER CLEANING
+========================================================================
+                                 Measure  Before cleaning  After cleaning
+                          Number of rows              526             500
+                       Number of columns               18              17
+                   Missing cells (total)              495               0
+    Rows with at least one missing value              343               0
+                    Exact duplicate rows               20               0
+                    Repeated student IDs               26               0
+ Impossible values (outside valid range)               14               0
+           Outliers detected by IQR rule               56               0
+          Distinct spellings of 'gender'               11               2
+ Distinct spellings of 'internet_access'               10               2
+Attendance values stored as text ('87%')               60               0
+              Date styles in 'exam_date'                5               1
+                     Unnecessary columns                4               0
+
+========================================================================
+EXPLORATORY DATA ANALYSIS (cleaned dataset)
+========================================================================
+Records analysed: 500
+
+========================================================================
+1. Descriptive statistics
+========================================================================
+                      count   mean    std    min    25%    50%    75%     max
+age                   500.0  16.87   1.16  15.00  16.00  17.00  18.00   19.00
+study_hours_per_week  500.0  17.92   7.81   2.80  12.30  17.10  22.50   37.80
+attendance_percent    500.0  84.99   8.03  63.20  79.65  85.10  90.60  100.00
+previous_score        500.0  55.25  12.11  24.30  47.70  54.80  63.30   86.70
+math_score            500.0  58.95  11.82  30.40  52.18  58.20  66.70   88.50
+science_score         500.0  59.82  11.75  30.10  51.90  59.00  66.40   88.20
+english_score         500.0  57.99  11.60  27.50  50.30  57.90  65.53   88.40
+average_score         500.0  58.92  10.09  35.13  51.76  58.52  64.68   88.37
+
+========================================================================
+2. Mean, median and mode
+========================================================================
+                       mean  median   mode  std_dev
+column                                             
+age                   16.87   17.00  17.00     1.16
+study_hours_per_week  17.92   17.10  17.10     7.81
+attendance_percent    84.99   85.10  85.10     8.03
+previous_score        55.25   54.80  54.80    12.11
+math_score            58.95   58.20  58.20    11.82
+science_score         59.82   59.00  59.00    11.75
+english_score         57.99   57.90  57.90    11.60
+average_score         58.92   58.52  60.27    10.09
+
+========================================================================
+3. Minimum and maximum values
+========================================================================
+                      minimum  maximum  range
+age                     15.00    19.00   4.00
+study_hours_per_week     2.80    37.80  35.00
+attendance_percent      63.20   100.00  36.80
+previous_score          24.30    86.70  62.40
+math_score              30.40    88.50  58.10
+science_score           30.10    88.20  58.10
+english_score           27.50    88.40  60.90
+average_score           35.13    88.37  53.24
+
+========================================================================
+4. Correlation matrix
+========================================================================
+                       age  study_hours_per_week  attendance_percent  previous_score  math_score  science_score  english_score  average_score
+age                   1.00                 -0.00                0.05           -0.01       -0.00           0.01          -0.03          -0.01
+study_hours_per_week -0.00                  1.00               -0.09            0.20        0.60           0.62           0.60           0.71
+attendance_percent    0.05                 -0.09                1.00           -0.05        0.02          -0.01           0.05           0.03
+previous_score       -0.01                  0.20               -0.05            1.00        0.51           0.49           0.50           0.58
+math_score           -0.00                  0.60                0.02            0.51        1.00           0.60           0.62           0.86
+science_score         0.01                  0.62               -0.01            0.49        0.60           1.00           0.61           0.86
+english_score        -0.03                  0.60                0.05            0.50        0.62           0.61           1.00           0.86
+average_score        -0.01                  0.71                0.03            0.58        0.86           0.86           0.86           1.00
+
+Correlation of each factor with the average score:
+study_hours_per_week    0.71
+previous_score          0.58
+attendance_percent      0.03
+age                    -0.01
+
+========================================================================
+5. Average score by group
+========================================================================
+
+By school type:
+             students  average_score
+school_type                         
+Government        206          57.22
+Aided              97          57.80
+Private           197          61.25
+
+By parental education:
+                    students  average_score
+parental_education                         
+High School              192          57.64
+Diploma                   87          58.76
+Bachelor's               159          58.87
+Master's                  62          63.23
+
+By extra classes:
+               students  average_score
+extra_classes                         
+Yes                 221          60.63
+No                  279          57.56
+
+By internet access:
+                 students  average_score
+internet_access                         
+Yes                   379          59.64
+No                    121          56.66
+
+By gender:
+        students  average_score
+gender                         
+Female       229          58.97
+Male         271          58.88
+
+By study level:
+             students  average_score
+study_level                         
+Low                69          48.88
+Medium            257          56.22
+High              174          66.89
+
+========================================================================
+6. Key observations
+========================================================================
+1. Study hours per week has the strongest positive link with the average score (correlation r = 0.71): students who study more score higher.
+2. Age (years) has almost no linear link with the average score (r = -0.01).
+3. Students who attend extra classes average 60.6 marks versus 57.6 for those who do not (difference +3.1).
+4. Students with internet access average 59.6 marks versus 56.7 without it (difference +3.0).
+5. By school type, Private schools have the highest average (61.2) and Government schools the lowest (57.2).
+6. Average score rises with parental education, from 57.6 (High School) to 63.2 (Master's).
+7. Average score by study level: Low = 48.9, Medium = 56.2, High = 66.9.
+8. Science score is the strongest subject (mean 59.8) and English score the weakest (mean 58.0).
+9. Average scores of Female (59.0) and Male (58.9) students differ by only 0.1 marks, so gender is not a major factor.
+10. 43.4% of students earn grade A or B, while 19.6% fall in grade D or F.
+11. Students with attendance of 85% or more average 59.2 marks; those below 85% average 58.6.
+
+Saved: /home/claude/Data_Cleaning_Visualization/outputs/analysis_report.txt
+
+========================================================================
+DATA VISUALIZATION: saving charts
+========================================================================
+  saved /home/claude/Data_Cleaning_Visualization/outputs/graphs/01_bar_chart.png
+  saved /home/claude/Data_Cleaning_Visualization/outputs/graphs/02_pie_chart.png
+  saved /home/claude/Data_Cleaning_Visualization/outputs/graphs/03_histogram.png
+  saved /home/claude/Data_Cleaning_Visualization/outputs/graphs/04_box_plot.png
+  saved /home/claude/Data_Cleaning_Visualization/outputs/graphs/05_scatter_plot.png
+  saved /home/claude/Data_Cleaning_Visualization/outputs/graphs/06_correlation_heatmap.png
+  saved /home/claude/Data_Cleaning_Visualization/outputs/graphs/07_outliers_before_after.png
+  saved /home/claude/Data_Cleaning_Visualization/outputs/graph_explanations.md
+
+========================================================================
+ALL DONE
+========================================================================
+Cleaned dataset : /home/claude/Data_Cleaning_Visualization/dataset/cleaned_data.csv
+Graphs          : /home/claude/Data_Cleaning_Visualization/outputs/graphs
+Next step       : streamlit run app.py

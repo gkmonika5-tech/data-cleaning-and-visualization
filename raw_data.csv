@@ -1,0 +1,527 @@
+student_id,student_name,gender,age,school_type,parental_education,internet_access,extra_classes,study_hours_per_week,attendance_percent,previous_score,math_score,science_score,english_score,exam_date,data_entry_operator,internal_remarks,record_source
+STU1312,Revathi Sharma,FEMALE,15.0,Government, Diploma,No,y,10.1,88.6,66.1,,59.0,53.7,2026-03-18,OP-01,Form scanned,Survey_Form_2026
+STU1398,Sanjay Nair,m,18.0,Government,HIGH SCHOOL,NO,Yes,22.7,88.8,48.2,51.0,58.6,60.1,2026-03-08,OP-03,,Survey_Form_2026
+STU1007,Dinesh Reddy,female,17.0,Government,Bachelor's,N,NO,15.7,73.6,55.5,60.4,54.9,45.6,26/03/2026,OP-03,Re-checked,Survey_Form_2026
+STU1185,Swathi Bose,Male,16.0,Private,Bachelor's,Yes,Yes,4.6,89.8,52.7,45.5,50.3,47.5,2026-03-09,OP-03,,Survey_Form_2026
+STU1079,Dinesh Reddy,Female,16.0,Private,Bachelor's,Yes,no,24.2,73.9,73.4,74.4,83.8,78.0,24-03-2026,OP-03,Re-checked,Survey_Form_2026
+STU1302,Sneha Iyer,Male,16.0,Government ,High School,Yes,No,23.5,88.1,51.5,65.7,55.5,49.0,2026-03-17,OP-02,,Survey_Form_2026
+STU1499,DEEPIKA MENON,female,17.0,pRIVATE,Diploma,yes,N,22.7,100.0,56.3,57.3,67.1,78.0,08/03/2026,OP-03,Form scanned,Survey_Form_2026
+STU1489,Dinesh Natarajan,male,18.0,government,Bachelor's,No,No,23.8,85.6%,47.5,57.9,57.3,62.3,2026-03-12,OP-02,,Survey_Form_2026
+STU1118,Sanjay Kumar,female,15.0,Government,Bachelor's,no,No,9.9,86.9,61.4,49.6,,49.4,2026-03-18,OP-03,Entered late,Survey_Form_2026
+STU1138,Harish Bose,Male,15.0,Private,Diploma,Yes,No,8.4,79.0,67.5,,65.3,55.9,09/03/2026,OP-03,Verified,Survey_Form_2026
+STU1011,Revathi Mohan,Female,,Government,DIPLOMA,yes,Yes,22.9,85.3%,63.0,65.5,,61.7,17-03-2026,OP-03,Verified,Survey_Form_2026
+STU1321,Ajay Krishnan,,18.0,Government,Master's,Y,No,10.9,67.7,65.4,55.5,52.1,47.1,02-03-2026,OP-01,Form scanned,Survey_Form_2026
+STU1076,Pooja Subramanian,Female,18.0,Aided,High School,Yes,Yes,29.4,87.5,58.4,72.7,82.4,57.2,17/03/2026,OP-03,Entered late,Survey_Form_2026
+STU1441,Sneha Nair,m,17.0,Government,Master's,Yes,Yes,15.5,90.3,61.7,56.0,59.2,65.2,2026-03-24,OP-01,,Survey_Form_2026
+STU1481,Priya Selvam,Male,18.0,Private,Diploma,y,No,35.9,73.5,67.1,90.3,75.3,69.4,14 Mar 2026,OP-01,Verified,Survey_Form_2026
+STU1141,Gokul Gupta,F,15.0,Private,Diploma,YES,N,10.4,100.0,47.6,56.4,58.9,,20/03/2026,OP-02,,Survey_Form_2026
+STU1003,Vijay Krishnan,Female,18.0,Private,Master's,yes,Yes,12.3,89.8,55.8,56.7,58.7,61.6,03/03/2026,OP-01,Form scanned,Survey_Form_2026
+STU1156,Harish Balaji,Female,,Government,Bachelor's,Yes,Yes,6.0,77.7%,49.9,47.6,45.4,50.6,2026-03-05,OP-03,Re-checked,Survey_Form_2026
+STU1378,Dinesh Natarajan,Male,16.0,Government,,n,Y,,84.7,79.9,56.0,51.7,66.1,2026-03-07,OP-03,,Survey_Form_2026
+STU1132,Suresh Reddy,MALE,18.0,Private,Master's,Yes,No,17.0,91.7,79.2,4.0,75.2,79.0,13-03-2026,OP-03,,Survey_Form_2026
+STU1439,Karthik Kumar,Male,15.0,Private,Bachelor's,No,Yes,24.9,77.8,29.9,50.9,51.7,46.1,2026-03-10,OP-03,Form scanned,Survey_Form_2026
+STU1212,Pooja Raj,Female,16.0,Private,Bachelor's,No,Yes,14.4,88.1,34.8,54.8,59.9,46.8,2026-03-04,OP-01,Entered late,Survey_Form_2026
+STU1382,Naveen Balaji,M,16.0,Private,Master's,Yes,No,17.6,,58.4,56.3,58.1,,20-03-2026,OP-02,Entered late,Survey_Form_2026
+STU1347,Keerthana Rao,Female,17.0,Government,Master's,Yes,Y,12.7,90.0%,49.3,54.1,58.4,50.8,2026-03-02,OP-02,,Survey_Form_2026
+STU1335,Sneha Bose,Female,18.0,Private,High School ,No,YES,18.0,81.3,76.6,65.3,81.1,,2026-03-10,OP-02,,Survey_Form_2026
+STU1396,Rohit Krishnan,Male,19.0,Private,Diploma,Yes,Yes,26.8,76.7,49.0,70.7,68.3,65.9,24/03/2026,OP-01,,Survey_Form_2026
+STU1394,Harish Murugan,,18.0,Government,Bachelor's,Yes,YES,21.7,86.6,89.6,61.4,82.6,86.3,14/03/2026,OP-01,,Survey_Form_2026
+STU1466,Rohit Krishnan,Female,16.0,Aided,Bachelor's,YES,yes,18.7,96.1,60.2,76.7,75.0,57.7,11-03-2026,OP-02,Form scanned,Survey_Form_2026
+STU1438,Sanjay Kumar,MALE,17.0, Government,Diploma,Yes,No,43.4,69.5%,48.4,82.3,,62.4,2026-03-15,OP-02,Re-checked,Survey_Form_2026
+STU1003,Vijay Krishnan,Female,18.0,Private,Master's,yes,Yes,12.3,89.8,55.8,56.7,58.7,61.6,03/03/2026,OP-01,Form scanned,Survey_Form_2026
+STU1412,DINESH BOSE,mALE,16.0,pRIVATE,Bachelor's,No,Y,13.1,73.5,40.1,57.3,52.1,63.5,19-03-2026,OP-01,,Survey_Form_2026
+STU1056,Deepika Natarajan,m,18.0,Government,bachelor's,y,n,14.1,91.7,41.2,58.6,55.7,51.6,2026-03-18,OP-02,Entered late,Survey_Form_2026
+STU1228,Kavya Murugan,female,15.0,Government,Bachelor's,Yes,No,6.5,,57.4,45.8,47.0,43.7,2026-03-03,OP-03,Verified,Survey_Form_2026
+STU1458,Rohit Bose,Male,16.0,Aided,Diploma,Y,Y,21.1,66.8,85.5,69.8,75.2,78.7,2026-03-15,OP-01,,Survey_Form_2026
+STU1031,Keerthana Rao,Female,17.0,Private,Bachelor's,yes,Yes,17.6,73.1,65.5,59.7,66.8,54.3,2026-03-12,OP-03,Re-checked,Survey_Form_2026
+STU1074,Janani Subramanian,Female,17.0,Private,High School,n,No,11.5,72.8,36.7,45.2,43.1,38.6,2026-03-18,OP-03,Verified,Survey_Form_2026
+STU1334,Arun Balaji,f,17.0,Private,,no,Y,11.7,94.7,53.2,54.8,60.7,53.2,2026-03-21,OP-03,,Survey_Form_2026
+STU1069,Sanjay Krishnan,Male,17.0,Government,High School,YES,NO,17.9,88.6,51.4,44.3,53.8,50.0,18/03/2026,OP-03,Verified,Survey_Form_2026
+STU1010,Divya Chandran,Female,16.0,Government,Diploma ,Y,No,32.8,78.4,44.6,61.1,61.0,59.9,13/03/2026,OP-02,Verified,Survey_Form_2026
+STU1080,Ajay Natarajan,male,18.0,Government,Bachelor's,yes,No,20.3,88.2,60.4,66.2,52.6,60.7,17/03/2026,OP-03,,Survey_Form_2026
+STU1102,Pooja Pillai,Male,18.0,Private,Bachelor's,Yes,Yes,22.0,74.8,53.8,68.2,77.9,64.5,08/03/2026,OP-01,Verified,Survey_Form_2026
+STU1105,Vignesh Balaji,Female,17.0,Private,Bachelor's ,YES,Yes,21.3,79.0,63.5,73.4,75.8,3.0,2026-03-14,OP-01,Verified,Survey_Form_2026
+STU1279,Ajay Murugan,MALE,17.0,Private,Master's,No,Yes,18.0,75.3,89.4,67.3,90.8,69.3,2026-03-22,OP-03,Verified,Survey_Form_2026
+STU1133,Naveen Venkatesh,male,17.0,Government,Bachelor's,Yes,No,17.0,74.5,42.5,44.4,54.6,42.3,2026-03-21,OP-01,,Survey_Form_2026
+STU1494,Karthik Nair,f,19.0,Government,High School,,yes,27.9,93.8,35.5,60.4,63.8,59.1,10/03/2026,OP-02,,Survey_Form_2026
+STU1337,Ajay Pillai,f,17.0,Private,High School,Yes,YES,30.1,83.0,54.3,68.6,,74.1,2026-03-07,OP-03,Form scanned,Survey_Form_2026
+STU1073,Pooja Reddy,male,18.0,Aided,MASTER'S,Yes,No,18.4,91.6%,60.0,58.8,62.7,61.5,16 Mar 2026,OP-01,Form scanned,Survey_Form_2026
+STU1230,Rohit Chandran,MALE,16.0,Aided,High School,Yes,y,11.3,90.1,47.1,68.2,48.4,71.7,2026-03-23,OP-02,,Survey_Form_2026
+STU1463,Praveen Reddy,Female,17.0,Government,Master's,Yes,No,19.5,86.0,52.0,68.1,48.4,62.8,2026-03-12,OP-01,Re-checked,Survey_Form_2026
+STU1078,Ajay Reddy,Male,18.0,Aided ,BACHELOR'S,Yes,No,19.5,90.1,53.5,57.1,63.3,65.0,2026-03-02,OP-01,Verified,Survey_Form_2026
+STU1468,DINESH IYER,,,gOVERNMENT,Master's,Y,NO,13.9,84.0,49.8,58.6,60.1,,2026-03-12,OP-01,Form scanned,Survey_Form_2026
+STU1091,Nandhini Rao,M,17.0,Private,High School,Yes,Yes,18.3,86.8,52.1,54.3,66.0,45.2,20/03/2026,OP-02,Re-checked,Survey_Form_2026
+STU1434,Meena Kumar,FEMALE,17.0,Private,Bachelor's ,y,No,18.7,80.5,50.5,62.9,70.8,55.8,"March 21, 2026",OP-03,,Survey_Form_2026
+STU1252,Divya Nair,Female,17.0,Government ,Master's,Yes,Yes,,81.9,48.6,49.8,56.6,48.9,2026-03-16,OP-03,Re-checked,Survey_Form_2026
+STU1219,Lakshmi Kumar,male,18.0,Private,Master's ,yes,No,10.5,,59.0,58.9,63.3,54.3,2026-03-02,OP-01,Entered late,Survey_Form_2026
+STU1211,Sanjay Pillai,f,18.0,Private,Bachelor's,No,No,16.7,79.2,52.6,53.7,73.9,47.9,04-03-2026,OP-02,Entered late,Survey_Form_2026
+STU1125,Deepika Kumar,Male,16.0,Private,High School,Yes,yes,13.1,73.7,59.9,53.8,54.2,61.5,2026-03-27,OP-02,Re-checked,Survey_Form_2026
+STU1181,Ishwarya Iyer,Male,18.0,government,,,No,39.7,80.3,61.8,70.6,81.1,73.2,2026-03-17,OP-02,Re-checked,Survey_Form_2026
+STU1485,Ishwarya Nair,m,17.0,Government,High School,Yes,no,11.9,82.4%,53.6,38.2,53.9,49.2,10/03/2026,OP-01,Entered late,Survey_Form_2026
+STU1452,Vignesh Bose,Male,18.0,Government,Master's,Yes,y,17.3,73.8,84.3,79.2,80.0,77.4,2026-03-03,OP-01,,Survey_Form_2026
+STU1421,Ishwarya Balaji,Female,18.0, Government,Bachelor's,y,No,22.0,84.9,41.5,62.4,50.0,55.8,19/03/2026,OP-02,Verified,Survey_Form_2026
+STU1493,Lakshmi Murugan,FEMALE,,Private,Bachelor's,y,Y,11.3,81.2%,68.2,65.2,73.0,50.1,23/03/2026,OP-02,Verified,Survey_Form_2026
+STU1319,Deepika Murugan,Male,17.0,Private,High School,yes,No,38.7,,68.5,83.3,79.1,75.2,"March 15, 2026",OP-03,Re-checked,Survey_Form_2026
+STU1230,Rohit Chandran,MALE,16.0,Aided,High School,Yes,y,11.3,90.1,47.1,68.2,48.4,71.7,2026-03-23,OP-02,,Survey_Form_2026
+STU1071,Ajay Venkatesh,Male,17.0,Government,High School,,Yes,17.1,83.5,43.8,45.2,59.6,47.4,09/03/2026,OP-02,,Survey_Form_2026
+STU1400,Karthik Raj,MALE,17.0,Aided,Diploma,yes,YES,,77.7,50.7,47.0,,50.5,21/03/2026,OP-03,Form scanned,Survey_Form_2026
+STU1149,Dinesh Balaji,Male,, Private,Diploma,Yes,No,25.5,92.0,41.5,56.9,63.0,68.6,"March 21, 2026",OP-03,Entered late,Survey_Form_2026
+STU1085,Nandhini Krishnan,Male,16.0,Private,High School,N,No,16.1,77.5,64.8,50.8,48.9,43.1,04/03/2026,OP-03,,Survey_Form_2026
+STU1064,Rohit Raj,male,16.0,Private,Bachelor's,Yes,No,19.6,94.5%,55.1,70.6,63.7,59.3,2026-03-23,OP-03,Entered late,Survey_Form_2026
+STU1363,Ishwarya Krishnan,f,18.0,Private,HIGH SCHOOL,Yes,No,20.0,83.5,55.3,63.3,73.2,63.4,2026-03-23,OP-01,Verified,Survey_Form_2026
+STU1090,Harish Iyer,,15.0,Government,Diploma,Y,YES,11.0,80.6,57.3,43.5,47.8,39.9,2026-03-12,OP-02,,Survey_Form_2026
+STU1465,Sanjay Nair,Female,19.0,Private,Bachelor's,Yes,No,26.6,86.2%,61.3,73.2,73.6,67.8,10/03/2026,OP-01,,Survey_Form_2026
+STU1178,Meena Venkatesh,MALE,17.0,Aided,Master's,Yes,Yes,29.0,,73.9,73.9,69.3,78.4,2026-03-15,OP-02,Entered late,Survey_Form_2026
+STU1034,Vignesh Iyer,F,16.0, Private,Diploma,No,N,11.1,99.3%,,56.9,47.4,54.7,25/03/2026,OP-02,Form scanned,Survey_Form_2026
+STU1077,Ajay Selvam,F,15.0,Private,High School,yes,No,11.0,84.1,71.1,48.1,64.0,63.8,26/03/2026,OP-01,,Survey_Form_2026
+STU1083,Janani Chandran,FEMALE,16.0,Government,Bachelor's,N,Yes,20.9,86.3,67.6,82.1,61.3,70.7,2026-03-18,OP-03,Form scanned,Survey_Form_2026
+STU1001,Kavya Chandran,male,15.0,Private,Bachelor's,Yes,No,9.7,65.8,,54.4,59.4,61.1,2026-03-07,OP-01,,Survey_Form_2026
+STU1012,Vijay Nair,FEMALE,16.0,Private,Master's,yes,y,,70.6,80.0,66.2,76.6,71.7,2026-03-22,OP-02,,Survey_Form_2026
+STU1248,Sneha Raj,Female,19.0,AIDED,Diploma,Yes,NO,20.8,95.5,45.6,44.3,,53.9,18/03/2026,OP-02,Re-checked,Survey_Form_2026
+STU1023,Swathi Natarajan,male,15.0,Government,Master's,n,NO,39.4,,38.1,71.1,71.7,200.0,2026-03-02,OP-01,Entered late,Survey_Form_2026
+STU1256,Priya Subramanian,Male,19.0,Government,Bachelor's,No,No,21.9,80.1,53.4,55.0,62.2,47.0,"March 19, 2026",OP-02,Form scanned,Survey_Form_2026
+STU1454,Keerthana Chandran,Male,19.0,Government,High School,NO,No,21.6,100.0%,44.1,56.6,49.1,,2026-03-19,OP-02,,Survey_Form_2026
+STU1226,Vijay Murugan,Female,16.0,Government,Master's,No,Y,4.2,88.4,,42.1,41.0,42.0,2026-03-24,OP-03,Verified,Survey_Form_2026
+STU1269,Revathi Murugan,Female,15.0,Government ,High School,Yes,Y,22.8,70.0,68.4,87.4,65.1,,2026-03-21,OP-01,,Survey_Form_2026
+STU1159,Ishwarya Natarajan,,15.0, Aided,Bachelor's,Yes,Yes,17.3,99.5,48.0,57.8,60.3,61.4,2026-03-27,OP-01,,Survey_Form_2026
+STU1440,Keerthana Menon,Male,,Government,Bachelor's,No,Yes,9.9,75.6,39.3,38.3,39.9,38.0,20/03/2026,OP-02,Form scanned,Survey_Form_2026
+STU1019,Manoj Kumar,Female,,Government,Bachelor's,Yes,Y,20.8,84.7,69.5,70.6,82.5,74.9,08/03/2026,OP-01,Entered late,Survey_Form_2026
+STU1183,Nandhini Menon,M,18.0,Government,Diploma,Yes,n,26.6,96.4,55.5,75.8,,68.0,2026-03-27,OP-03,Verified,Survey_Form_2026
+STU1285,Vignesh Raj,Male,17.0,Private,Bachelor's,n,yes,35.2,93.2,54.0,78.7,85.9,73.1,2026-03-12,OP-03,,Survey_Form_2026
+STU1016,Deepika Chandran,M,15.0,GOVERNMENT,,y,Yes,-,84.7,64.9,51.2,53.8,59.9,02/03/2026,OP-03,,Survey_Form_2026
+STU1470,Deepika Raj,Female,16.0,Government,Diploma ,yes,No,11.8,76.2%,60.7,?,42.4,49.3,2026-03-20,OP-01,Re-checked,Survey_Form_2026
+STU1040,Divya Krishnan,M,19.0,Private,Bachelor's,Yes,Yes,13.5,100.0,56.3,59.0,58.1,58.1,2026-03-16,OP-01,,Survey_Form_2026
+STU1477,Priya Bose,Male,16.0,Aided,Diploma,Yes,no,16.5,70.6,41.9,47.7,53.9,36.6,13/03/2026,OP-03,,Survey_Form_2026
+STU1047,Harish Gupta,F,18.0,Government,Diploma,Yes,Y,20.4,96.2,53.2,65.5,54.3,60.9,2026-03-09,OP-02,,Survey_Form_2026
+STU1094,Lakshmi Kumar,F,17.0,Aided,Diploma,Yes,YES,45.0,89.7,78.6,90.5,100.0,86.1,2026-03-12,OP-01,Form scanned,Survey_Form_2026
+STU1168,Ajay Iyer,f,19.0,Private,Bachelor's,Yes,Yes,27.2,86.7,51.4,76.9,72.5,60.8,23/03/2026,OP-01,,Survey_Form_2026
+STU1210,Swathi Pillai,Male,17.0,aided,Diploma,YES,Yes,20.5,91.1,60.0,56.7,62.2,66.3,16/03/2026,OP-02,Form scanned,Survey_Form_2026
+STU1372,Karthik Reddy,Male,17.0,Government,High School,,Y,17.5,,51.9,52.3,51.8,,24/03/2026,OP-03,,Survey_Form_2026
+STU1353,Revathi Venkatesh,female,15.0,Private,N/A,Yes,No,20.0,89.4,46.0,61.8,74.8,-5.0,10 Mar 2026,OP-03,,Survey_Form_2026
+STU1291,Nandhini Nair,Male,15.0,Government,Bachelor's,Yes,No,10.6,89.4,85.8,64.0,62.1,68.8,17/03/2026,OP-01,,Survey_Form_2026
+STU1232,Janani Nair,Male,16.0,Government,Diploma,,y,5.9,72.7,53.6,48.8,42.2,46.7,2026-03-04,OP-02,,Survey_Form_2026
+STU1308,Swathi Venkatesh,Female,16.0,Government ,Bachelor's,Yes,YES,20.1,75.2,65.2,72.8,86.0,70.3,2026-03-11,OP-03,,Survey_Form_2026
+STU1430,Keerthana Rao,Female,19.0,Private,Bachelor's,Yes,Y,12.6,79.0,67.9,58.1,62.0,64.6,2026-03-12,OP-02,Form scanned,Survey_Form_2026
+STU1433,Harish Kumar,Male,15.0,AIDED,Bachelor's,Yes,No,23.6,84.8,45.7,58.2,62.7,50.4,2026-03-19,OP-01,Re-checked,Survey_Form_2026
+STU1154,Rohit Krishnan,Male,16.0,Government,Bachelor's,YES,Yes,20.2,86.2,73.7,79.2,80.3,66.6,15/03/2026,OP-02,,Survey_Form_2026
+STU1221,Rohit Subramanian,Male,-3.0,Aided,High School,,y,11.9,92.0,36.4,41.4,51.8,62.3,2026-03-06,OP-02,Entered late,Survey_Form_2026
+STU1070,Rahul Chandran,Female,,Aided,Diploma,Yes,NO,17.4,78.1,35.9,37.5,49.8,40.0,13/03/2026,OP-02,,Survey_Form_2026
+STU1478,Vijay Iyer,Male,,Aided, Bachelor's,No,No,20.8,97.6,65.4,53.5,59.8,66.3,11-03-2026,OP-03,,Survey_Form_2026
+STU1308,Swathi Venkatesh,Female,16.0,Government ,Bachelor's,Yes,YES,20.1,75.2,65.2,72.8,86.0,70.3,2026-03-11,OP-03,,Survey_Form_2026
+STU1174,Karthik Chandran,f,16.0,Private,Master's,No,Yes,19.3,88.7,44.6,60.1,68.7,70.8,2026-03-11,OP-03,,Survey_Form_2026
+STU1238,Arun Iyer,female,15.0, Government,Bachelor's,Yes,YES,9.8,77.6,50.9,56.9,54.2,53.7,15-03-2026,OP-02,Form scanned,Survey_Form_2026
+STU1249,Rohit Raj,,17.0,Private,DIPLOMA,N,no,13.4,82.2%,44.5,52.4,36.9,41.0,2026-03-16,OP-02,Verified,Survey_Form_2026
+STU1212,Pooja Raj,Female,16.0,Private,Bachelor's,No,Yes,14.4,88.1,34.8,54.8,59.9,46.8,2026-03-04,OP-01,Entered late,Survey_Form_2026
+STU1193,Pooja Mohan,male,16.0,Government,High School,n,Y,5.2,92.5,67.2,51.4,51.3,60.8,2026-03-24,OP-02,Entered late,Survey_Form_2026
+STU1339,Janani Murugan,M,16.0,Aided,High School,n,No,10.0,80.5,47.5,36.6,48.8,44.1,10 Mar 2026,OP-02,Re-checked,Survey_Form_2026
+STU1326,Arun Natarajan,M,17.0,Government,Bachelor's,No,Yes,,81.4,29.5,36.3,44.2,55.8,2026-03-27,OP-03,Re-checked,Survey_Form_2026
+STU1223,Lakshmi Rao,female,17.0,Government,Bachelor's,No,No,95.0,92.8,42.9,56.1,56.9,67.1,2026-03-17,OP-02,,Survey_Form_2026
+STU1155,Sneha Subramanian,Male,17.0,Private,High School,Yes,N,-,73.4,66.0,72.3,55.0,59.2,2026-03-05,OP-02,,Survey_Form_2026
+STU1424,Revathi Nair,F,17.0,Aided,High School,y,Yes,24.8,82.5,61.8,66.5,,64.2,2026-03-25,OP-01,,Survey_Form_2026
+STU1177,Kavya Kumar,Male,19.0,Private,Diploma,Yes,No,23.4,91.0%,66.1,76.0,57.6,61.3,2026-03-07,OP-03,,Survey_Form_2026
+STU1362,Dinesh Subramanian,Female,18.0,Private,High School,yes,No,20.5,92.8,47.4,58.2,43.1,65.1,2026-03-11,OP-01,Form scanned,Survey_Form_2026
+STU1411,Lakshmi Mohan,Male,18.0,Private ,Bachelor's,No,y,45.0,,45.4,69.0,79.2,85.3,05/03/2026,OP-01,Re-checked,Survey_Form_2026
+STU1205,Manoj Krishnan,Female,16.0,Government,High School,y,NO,26.3,71.9,47.7,64.1,53.4,51.4,2026-03-27,OP-01,,Survey_Form_2026
+STU1342,Pooja Pillai,Female,19.0,Private,Master's,n,No,14.8,90.6,51.9,60.2,51.9,66.3,05/03/2026,OP-02,Form scanned,Survey_Form_2026
+STU1281,Harish Pillai,Female,17.0,Government, High School,Yes,yes,16.4,80.6,55.4,64.9,54.6,50.9,22-03-2026,OP-03,,Survey_Form_2026
+STU1457,Deepika Mohan,F,15.0,Private,,yes,n,30.8,65.2,76.6,87.1,72.7,81.5,2026-03-14,OP-01,,Survey_Form_2026
+STU1366,Manoj Krishnan,,19.0,Private,Diploma,Yes,No,17.4,92.0,51.4,79.7,49.9,59.3,"March 11, 2026",OP-03,,Survey_Form_2026
+STU1087,Suresh Menon,FEMALE,17.0,Government,bachelor's,,Yes,19.7,96.3,58.0,65.0,72.7,63.4,2026-03-18,OP-02,,Survey_Form_2026
+STU1275,Dinesh Raj,f,16.0,Government,Bachelor's,Yes,N,27.4,90.5,62.3,64.9,72.8,,19-03-2026,OP-03,Entered late,Survey_Form_2026
+STU1196,Priya Krishnan,,16.0,Aided,High School,Yes,n,30.5,87.2,60.8,57.1,68.5,59.1,2026-03-17,OP-02,,Survey_Form_2026
+STU1408,Meena Gupta,FEMALE,17.0,Government,Bachelor's,Yes,Yes,22.9,64.7,65.7,67.9,70.7,65.5,2026-03-14,OP-01,,Survey_Form_2026
+STU1020,Dinesh Rao,Female,15.0,Private,Bachelor's,y,yes,24.8,79.7%,64.5,84.7,80.0,52.7,"March 18, 2026",OP-01,Verified,Survey_Form_2026
+STU1350,Karthik Menon,f,18.0, Private,High School,YES,NO,10.8,93.8,56.0,48.9,60.9,60.4,"March 04, 2026",OP-03,Re-checked,Survey_Form_2026
+STU1057,Anjali Selvam,f,16.0,Government,Diploma,No,n,24.8,100.0,64.0,68.7,65.4,70.7,2026-03-13,OP-03,,Survey_Form_2026
+STU1218,Janani Nair,Male,16.0,Government,High School,yes,N,6.7,91.2,57.0,,44.1,44.6,"March 21, 2026",OP-03,,Survey_Form_2026
+STU1349,Gokul Iyer,FEMALE,17.0,Government,Bachelor's ,y,Yes,5.8,93.5,,44.5,50.5,55.5,2026-03-19,OP-03,,Survey_Form_2026
+STU1447,Praveen Pillai,Female,16.0,Private,Master's,No,y,12.1,88.6,60.5,60.9,47.7,58.1,2026-03-10,OP-01,,Survey_Form_2026
+STU1250,Gokul Rao,M,16.0,Private,Diploma,no,Yes,25.1,94.9,,81.9,70.0,57.8,22/03/2026,OP-02,Verified,Survey_Form_2026
+STU1026,Pooja Kumar,Male,16.0,Government,High School,Y,Y,26.4,100.0,58.8,75.7,74.0,64.3,2026-03-16,OP-01,,Survey_Form_2026
+STU1462,Rohit Venkatesh,Female,16.0,Aided,High School,Yes,yes,12.6,85.6,50.1,46.9,54.7,40.5,09-03-2026,OP-03,,Survey_Form_2026
+STU1043,Arun Menon,Male,16.0,Private,Bachelor's,Y,yes,18.7,74.1,67.5,74.3,64.9,63.8,2026-03-14,OP-03,,Survey_Form_2026
+STU1321,Ajay Krishnan,,18.0,Government,Master's,Y,No,10.9,67.7,65.4,55.5,52.1,47.1,02-03-2026,OP-01,Form scanned,Survey_Form_2026
+STU1263,Arun Venkatesh,female,16.0,Government,HIGH SCHOOL,,y,18.0,73.1,64.4,67.9,66.5,52.9,2026-03-07,OP-03,,Survey_Form_2026
+STU1173,Keerthana Gupta,f,17.0,Private,High School,Yes,No,3.1,84.6%,49.8,49.2,39.3,44.5,19 Mar 2026,OP-01,,Survey_Form_2026
+STU1292,Ishwarya Kumar,m,16.0,Aided,High School,Yes,y,,88.0,,46.8,49.8,47.0,25-03-2026,OP-01,Form scanned,Survey_Form_2026
+STU1127,Ishwarya Krishnan,Female,16.0, Private,,,Y,23.1,80.8,65.0,76.4,67.2,60.8,2026-03-09,OP-01,,Survey_Form_2026
+STU1404,Harish Natarajan,Female,15.0,Aided,High School,Yes,y,6.9,80.3,50.9,,43.6,45.7,2026-03-23,OP-01,Entered late,Survey_Form_2026
+STU1032,Harish Menon,Female,18.0,Private,,Yes,y,11.8,81.0,65.7,59.0,59.9,65.3,2026-03-03,OP-01,,Survey_Form_2026
+STU1114,Janani Balaji,m,17.0,Private,Bachelor's,No,yes,6.4,88.9,36.3,45.7,48.5,51.5,22 Mar 2026,OP-03,,Survey_Form_2026
+STU1330,Deepika Balaji,Female,,Government,HIGH SCHOOL,Yes,no,13.5,96.7,69.6,54.7,61.1,,2026-03-02,OP-02,Verified,Survey_Form_2026
+STU1229,Sanjay Sharma,Male,17.0,Aided,Bachelor's,No,Y,26.2,78.6,60.1,8.0,65.0,67.0,10/03/2026,OP-01,Verified,Survey_Form_2026
+STU1361,Harish Gupta,FEMALE,18.0,Private,Master's,y,No,19.3,94.8,69.5,69.9,72.3,68.9,26/03/2026,OP-03,,Survey_Form_2026
+STU1058,Ajay Rao,FEMALE,16.0,Aided,Bachelor's,Yes,No,20.7,81.8,39.5,56.6,6.0,44.9,"March 18, 2026",OP-03,,Survey_Form_2026
+STU1383,Keerthana Iyer,Male,17.0,Private,Bachelor's,Yes,Yes,9.4,82.8,58.7,58.6,44.5,62.2,2026-03-19,OP-02,Re-checked,Survey_Form_2026
+STU1025,Harish Venkatesh,female,18.0,Government,Bachelor's,Yes,N,18.3,79.5,69.0,66.7,67.8,68.4,"March 06, 2026",OP-01,Verified,Survey_Form_2026
+STU1018,Rohit Reddy,Male,16.0,Private,High School,no,no,8.1,84.5,,45.3,39.6,32.9,2026-03-16,OP-03,,Survey_Form_2026
+STU1267,Ajay Rao,Female,18.0,Government,,Yes,No,18.1,97.8,,68.8,39.2,62.9,27/03/2026,OP-01,,Survey_Form_2026
+STU1067,Revathi Subramanian,Male,17.0,Private,Bachelor's,Yes,yes,15.6,74.0,45.5,58.2,50.4,50.4,2026-03-27,OP-01,Form scanned,Survey_Form_2026
+STU1235,Naveen Mohan,Male,17.0,Government, Master's,Yes,no,38.0,81.8,94.7,85.1,89.8,90.0,2026-03-26,OP-02,,Survey_Form_2026
+STU1469,Naveen Menon,m,15.0,Aided,High School,YES,No,19.7,94.6,42.7,44.7,56.9,52.4,15 Mar 2026,OP-01,,Survey_Form_2026
+STU1095,Divya Bose,Male,17.0, Government,High School,yes,NO,11.5,93.0,43.5,44.9,48.1,45.1,2026-03-05,OP-03,,Survey_Form_2026
+STU1341,Nandhini Menon,F,150.0,government,High School,Yes,y,27.3,79.8,41.2,61.4,69.9,60.6,2026-03-07,OP-01,,Survey_Form_2026
+STU1356,Vignesh Subramanian,Female,,Aided,Diploma,Yes,no,17.2,81.0,59.7,,57.7,61.1,2026-03-26,OP-01,Re-checked,Survey_Form_2026
+STU1024,Rohit Reddy,f,15.0,Private,Master's,Yes,N,11.8,83.9,50.0,52.6,51.8,57.3,12/03/2026,OP-02,Verified,Survey_Form_2026
+STU1251,Nandhini Krishnan,Male,15.0,Government,Bachelor's,Y,No,6.0,88.9,56.7,57.7,54.1,35.4,2026-03-25,OP-03,,Survey_Form_2026
+STU1468,Dinesh Iyer,,,Government,Master's,Y,NO,13.9,84.0,49.8,58.6,60.1,,2026-03-12,OP-01,Form scanned,Survey_Form_2026
+STU1306,Praveen Iyer,Male,16.0,Government,Diploma,N,No,10.2,82.0,30.6,35.2,35.0,38.5,"March 25, 2026",OP-02,,Survey_Form_2026
+STU1006,Rohit Sharma,Male,17.0,Private,Master's,Yes,n,20.3,100.0,65.4,64.8,73.1,63.3,14-03-2026,OP-01,,Survey_Form_2026
+STU1117,Nandhini Krishnan,m,19.0,Private,Bachelor's,Yes,Yes,22.5,92.7,65.7,72.2,74.0,69.4,2026-03-08,OP-03,Form scanned,Survey_Form_2026
+STU1046,Vignesh Nair,f,15.0,Aided,BACHELOR'S,Yes,Yes,9.9,82.0,59.1,47.2,53.5,48.8,2026-03-13,OP-02,,Survey_Form_2026
+STU1083,Janani Chandran,FEMALE,16.0,Government,Bachelor's,N,Yes,20.9,86.3,67.6,82.1,61.3,70.7,2026-03-18,OP-03,Form scanned,Survey_Form_2026
+STU1290,Lakshmi Sharma,Female,17.0,Private ,High School,Yes,Yes,15.0,87.3,61.6,56.3,62.0,66.3,09/03/2026,OP-01,Verified,Survey_Form_2026
+STU1017,Divya Kumar,Male,16.0,government,Bachelor's,Yes,yes,11.2,94.3,33.9,38.9,52.9,47.6,25/03/2026,OP-03,,Survey_Form_2026
+STU1491,Deepika Rao,Female,16.0,Private,Bachelor's,y,y,3.1,95.0,64.1,57.0,56.1,63.4,24-03-2026,OP-01,Re-checked,Survey_Form_2026
+STU1377,Naveen Pillai,Male,17.0,Government,Master's ,Yes,Yes,2.8,85.2,37.5,56.1,35.0,44.9,2026-03-10,OP-03,,Survey_Form_2026
+STU1004,Karthik Iyer,MALE,17.0,Aided,BACHELOR'S,Yes,yes,12.0,,41.5,59.4,51.6,36.6,2026-03-09,OP-01,Verified,Survey_Form_2026
+STU1245,Karthik Iyer,Female,17.0,aided,Bachelor's,Yes,No,13.7,94.2,40.7,37.1,59.9,46.2,2026-03-22,OP-03,Entered late,Survey_Form_2026
+STU1450,Meena Natarajan,Male,17.0,Government,Bachelor's,Yes,no,18.2,94.5,52.5,69.5,61.0,57.7,2026-03-15,OP-02,Form scanned,Survey_Form_2026
+STU1061,Rahul Subramanian,FEMALE,15.0,Government,Bachelor's,No,No,16.8,93.9,59.0,,59.1,59.0,05-03-2026,OP-02,Form scanned,Survey_Form_2026
+STU1111,Meena Raj,Female,16.0, Aided,Diploma,Y,YES,21.3,,,71.0,74.3,66.7,2026-03-05,OP-02,,Survey_Form_2026
+STU1336,Keerthana Murugan,,18.0,Aided,Bachelor's,,y,15.2,75.7,48.2,56.6,58.7,65.1,21/03/2026,OP-02,Verified,Survey_Form_2026
+STU1276,Nandhini Pillai,FEMALE,19.0,Private,Diploma,y,No,30.8,71.9,63.3,77.0,69.4,67.5,25/03/2026,OP-01,Verified,Survey_Form_2026
+STU1030,Pooja Sharma,Female,15.0,Government,Bachelor's,YES,Yes,16.3,87.3,70.2,56.1,68.3,78.0,2026-03-15,OP-02,,Survey_Form_2026
+STU1448,Swathi Raj,Male,15.0,Private,N/A,YES,No,24.9,92.4,65.9,68.7,73.4,76.1,21/03/2026,OP-02,Form scanned,Survey_Form_2026
+STU1186,Nandhini Chandran,Male,17.0,government,Bachelor's,No,Yes,17.6,100.0,38.9,58.6,53.3,58.8,21/03/2026,OP-03,Re-checked,Survey_Form_2026
+STU1027,Rahul Venkatesh,Female,17.0,Private,,n,Yes,9.3,84.2,45.7,52.0,52.2,52.8,2026-03-15,OP-03,,Survey_Form_2026
+STU1008,Sneha Natarajan,FEMALE,18.0,Private,Bachelor's,YES,No,23.1,84.8,40.3,69.3,60.5,63.3,2026-03-17,OP-01,Form scanned,Survey_Form_2026
+STU1182,Swathi Rao,MALE,17.0, Government,Master's,Yes,NO,,74.9,40.4,49.1,46.0,,06/03/2026,OP-01,Form scanned,Survey_Form_2026
+STU1479,Suresh Balaji,m,16.0,Aided,Bachelor's,YES,NO,35.2,81.9,66.3,80.9,90.4,68.6,14/03/2026,OP-02,Form scanned,Survey_Form_2026
+STU1109,Vijay Kumar,M,17.0,Private,High School,n,y,19.0,100.0,40.5,53.7,61.5,50.4,06/03/2026,OP-02,Form scanned,Survey_Form_2026
+STU1038,Harish Iyer,Male,17.0,Government,Diploma,YES,No,13.0,99.6,41.7,42.5,44.4,48.3,2026-03-16,OP-01,Verified,Survey_Form_2026
+STU1158,Swathi Mohan,Female,15.0,Government,Bachelor's,YES,No,21.6,95.9,47.4,64.1,75.2,,2026-03-07,OP-03,Re-checked,Survey_Form_2026
+STU1495,Swathi Murugan,Male,18.0,Private,Bachelor's,,n,14.2,80.2,53.0,65.2,56.2,63.5,10/03/2026,OP-01,Form scanned,Survey_Form_2026
+STU1119,Nandhini Murugan,MALE,17.0,Government,Diploma,Yes,no,17.7,70.9,59.4,53.3,57.6,66.8,2026-03-23,OP-02,Form scanned,Survey_Form_2026
+STU1115,Kavya Sharma,Male,16.0,Government,High School,no,no,15.4,,,54.2,60.4,49.2,2026-03-03,OP-02,,Survey_Form_2026
+STU1273,Priya Pillai,Female,16.0, Aided,High School,Yes,no,20.9,76.8,59.1,60.6,56.6,,2026-03-10,OP-01,,Survey_Form_2026
+STU1176,Ishwarya Menon,Female,17.0,Government,High School,N,No,28.2,88.3,66.8,59.6,60.2,66.0,2026-03-16,OP-02,Verified,Survey_Form_2026
+STU1209,Janani Selvam,Female,17.0,Aided,High School,,No,,,48.4,54.1,55.3,60.7,08-03-2026,OP-02,,Survey_Form_2026
+STU1204,Sanjay Murugan,m,18.0,Private,High School,y,no,43.9,82.6,88.6,100.0,93.6,94.5,"March 07, 2026",OP-01,,Survey_Form_2026
+STU1145,Kavya Selvam,Male,18.0,Private ,Diploma,YES,YES,7.1,100.0%,29.5,50.2,56.4,39.6,06-03-2026,OP-02,Form scanned,Survey_Form_2026
+STU1195,Manoj Pillai,Female,16.0,Private,High School,No,n,,100.0,70.4,60.4,63.4,60.2,2026-03-21,OP-02,Re-checked,Survey_Form_2026
+STU1443,Meena Menon,female,17.0,Government,Bachelor's,Yes,Yes,16.9,76.9%,38.3,53.5,58.3,55.1,2026-03-22,OP-03,Verified,Survey_Form_2026
+STU1437,Dinesh Natarajan,female,16.0,Private,High School,YES,No,35.6,75.3,47.7,70.1,73.7,79.1,2026-03-18,OP-02,Re-checked,Survey_Form_2026
+STU1297,Anjali Menon,Male,16.0,Government,Master's,Yes,NO,36.9,95.3,59.4,77.7,86.6,77.8,2026-03-21,OP-03,,Survey_Form_2026
+STU1369,Rahul Subramanian,Male,18.0,Government,High School,Yes,No,9.7,86.5,51.1,35.5,57.2,40.3,23/03/2026,OP-01,Form scanned,Survey_Form_2026
+STU1487,Praveen Chandran,m,16.0,GOVERNMENT,Diploma,NO,yes,18.5,100.0,56.8,,65.6,,2026-03-15,OP-02,Entered late,Survey_Form_2026
+STU1471,Karthik Balaji,Male,18.0,Government,Diploma,No,YES,8.8,100.0,51.7,44.5,42.6,55.5,09/03/2026,OP-03,,Survey_Form_2026
+STU1142,Naveen Sharma,F,16.0,Private,Diploma,No,y,27.5,74.8%,88.9,67.0,86.4,76.6,25/03/2026,OP-03,Form scanned,Survey_Form_2026
+STU1106,Dinesh Natarajan,Female,15.0,Private,BACHELOR'S,NO,yes,11.4,82.2,42.6,50.9,43.8,50.8,2026-03-03,OP-03,,Survey_Form_2026
+STU1068,Janani Gupta,female,17.0,Government,High School,Yes,Yes,12.0,98.5,53.3,57.7,58.4,61.8,2026-03-03,OP-02,Form scanned,Survey_Form_2026
+STU1354,Janani Venkatesh,Male,16.0,Private,Bachelor's,yes,No,11.6,91.3,54.5,70.4,52.6,52.6,21/03/2026,OP-02,,Survey_Form_2026
+STU1169,Nandhini Raj,male,17.0,Government,High School,No,Yes,26.8,91.2,48.1,56.2,64.7,59.9,2026-03-27,OP-01,,Survey_Form_2026
+STU1189,Divya Rao,Female,17.0,Private,BACHELOR'S,yes,n,12.9,83.0%,52.1,56.4,61.6,50.0,2026-03-23,OP-02,Form scanned,Survey_Form_2026
+STU1407,Manoj Kumar,F,19.0,Aided,High School,NO,YES,33.5,84.5,46.8,70.9,58.3,63.9,2026-03-27,OP-03,,Survey_Form_2026
+STU1397,Rohit Rao,Female,16.0,Government,Bachelor's,yes,No,13.0,85.6,60.3,53.6,53.7,,2026-03-15,OP-01,,Survey_Form_2026
+STU1239,Divya Rao,Female,17.0,Government,,Yes,n,14.6,85.8,30.6,47.0,45.8,44.3,04/03/2026,OP-03,,Survey_Form_2026
+STU1194,Vignesh Iyer,Male,18.0,government,Bachelor's,No,No,23.3,84.0,52.6,73.1,54.8,52.8,2026-03-06,OP-03,Entered late,Survey_Form_2026
+STU1082,Vijay Gupta,Male,17.0,Aided,Diploma,No,yes,18.0,89.4,39.2,55.4,57.9,43.0,21-03-2026,OP-01,,Survey_Form_2026
+STU1110,Harish Reddy,Male,16.0,Aided,Master's,yes,Y,20.2,86.5,54.1,61.6,65.4,63.4,2026-03-12,OP-02,,Survey_Form_2026
+STU1266,Praveen Iyer,Female,16.0,Government,High School,No,Yes,29.1,,63.0,68.4,73.2,74.3,2026-03-04,OP-01,Entered late,Survey_Form_2026
+STU1146,Suresh Selvam,female,17.0,Private,High School,Yes,No,15.9,90.3,71.1,60.8,76.5,54.1,05-03-2026,OP-01,Re-checked,Survey_Form_2026
+STU1093,Sneha Chandran,Male,15.0,Government,Diploma,YES,No,15.6,89.4,73.5,60.0,43.3,66.5,27-03-2026,OP-03,Re-checked,Survey_Form_2026
+STU1153,Ajay Bose,Female,18.0,Private,High School,Yes,yes,17.4,91.8,35.2,38.4,48.9,60.6,09/03/2026,OP-01,Entered late,Survey_Form_2026
+STU1246,Meena Kumar,Female,17.0,Aided,Master's,Yes,No,22.9,81.2,42.4,61.4,60.2,56.6,03/03/2026,OP-01,,Survey_Form_2026
+STU1416,Meena Nair,Female,19.0,Private,High School,No,Yes,17.1,86.1,61.6,66.3,62.8,72.6,04-03-2026,OP-01,Form scanned,Survey_Form_2026
+STU1272,Arun Subramanian,,16.0,Aided,High School,Y,No,12.5,79.7,69.7,,63.5,56.3,2026-03-03,OP-01,Entered late,Survey_Form_2026
+STU1376,Harish Menon,Male,16.0,Private ,High School,Yes,No,15.0,,40.5,36.8,37.0,52.2,2026-03-15,OP-01,,Survey_Form_2026
+STU1084,Lakshmi Reddy,Female,18.0,government,High School,No,Yes,10.9,84.1%,48.4,47.5,50.7,41.2,21/03/2026,OP-02,Form scanned,Survey_Form_2026
+STU1104,Rohit Rao,Male,17.0,Private,Master's,No,no,28.3,80.7,64.2,76.6,75.8,67.8,20/03/2026,OP-01,,Survey_Form_2026
+STU1166,Karthik Subramanian,,16.0,Private, Diploma,No,No,24.8,250.0,54.7,55.6,65.9,64.3,2026-03-19,OP-02,Verified,Survey_Form_2026
+STU1164,Naveen Rao,Male,17.0,Government,High School,yes,YES,20.1,83.6,47.6,64.3,51.4,55.0,25/03/2026,OP-01,Form scanned,Survey_Form_2026
+STU1200,Keerthana Chandran,Male,17.0,Government,High School,Yes,No,17.5,83.8,63.6,50.9,54.6,65.3,2026-03-02,OP-02,Verified,Survey_Form_2026
+STU1300,Deepika Nair,f,19.0,Private,N/A,Yes,No,5.1,93.7,59.1,39.2,43.0,61.4,"March 26, 2026",OP-03,Entered late,Survey_Form_2026
+STU1075,Revathi Bose,Male,16.0,Private,High School,No,Yes,14.3,77.4,35.2,46.5,43.8,52.5,06-03-2026,OP-02,,Survey_Form_2026
+STU1325,Suresh Balaji,Male,18.0,Private,Bachelor's,Yes,no,17.9,78.1%,54.3,56.1,59.3,54.7,12/03/2026,OP-03,Verified,Survey_Form_2026
+STU1278,Vignesh Bose,Male,16.0,Government,Diploma,YES,Yes,12.2,98.6,61.3,64.6,58.6,47.5,2026-03-22,OP-02,,Survey_Form_2026
+STU1498,Swathi Krishnan,MALE,16.0,Government,Bachelor's,Yes,Yes,26.9,91.3,87.4,80.3,77.2,74.9,2026-03-16,OP-02,Verified,Survey_Form_2026
+STU1120,Vignesh Venkatesh,Female,17.0,Government,bachelor's,no,Y,15.0,91.9,53.1,67.4,61.6,54.5,2026-03-07,OP-03,Form scanned,Survey_Form_2026
+STU1425,Karthik Chandran,,15.0,Government,Bachelor's,Yes,YES,10.0,76.3,36.4,42.7,50.6,43.2,2026-03-15,OP-02,,Survey_Form_2026
+STU1496,Karthik Bose,Male,18.0,Aided,Diploma,Yes,No,18.1,84.7,54.8,56.9,63.8,57.0,2026-03-18,OP-02,Entered late,Survey_Form_2026
+STU1317,Meena Pillai,MALE,17.0,Private,Diploma,Yes,No,29.5,94.7,54.5,62.2,73.5,76.2,2026-03-11,OP-01,,Survey_Form_2026
+STU1374,Suresh Rao,m,19.0,Government,High School,No,No,9.3,85.6,54.5,47.8,43.8,37.8,2026-03-08,OP-01,Verified,Survey_Form_2026
+STU1423,Rohit Krishnan,Male,15.0,Private,High School,Yes,N,11.9,90.6,39.3,37.0,55.2,46.5,17-03-2026,OP-01,,Survey_Form_2026
+STU1282,Gokul Subramanian,Female,15.0,Private,High School,YES,No,20.9,89.9,51.0,63.8,60.6,57.0,2026-03-18,OP-01,Verified,Survey_Form_2026
+STU1269,Revathi Murugan,Female,15.0,Government ,High School,Yes,Y,22.8,70.0,68.4,87.4,65.1,,2026-03-21,OP-01,,Survey_Form_2026
+STU1262,Priya Selvam,Male,17.0,Government,Bachelor's,y,Yes,34.3,89.2,51.4,85.3,88.1,69.7,23/03/2026,OP-03,,Survey_Form_2026
+STU1311,Keerthana Gupta,F,19.0,Government,Diploma,Yes,Y,19.4,80.6,55.0,55.6,69.7,52.4,02-03-2026,OP-01,Verified,Survey_Form_2026
+STU1405,Rohit Venkatesh,Male,15.0, Private,Master's,Yes,NO,24.0,75.8,,61.6,62.0,60.7,2026-03-22,OP-01,,Survey_Form_2026
+STU1333,Ishwarya Sharma,Male,16.0,Government,Bachelor's,Yes,NO,,72.8,57.0,63.6,,61.0,2026-03-09,OP-01,Re-checked,Survey_Form_2026
+STU1288,Meena Sharma,MALE,16.0,Government,Diploma,Yes,No,26.6,77.3,49.6,54.4,60.5,54.4,09-03-2026,OP-03,Form scanned,Survey_Form_2026
+STU1037,Pooja Subramanian,Female,15.0,Aided,High School,Yes,No,3.5,90.8%,34.9,38.5,49.8,24.6,15/03/2026,OP-03,,Survey_Form_2026
+STU1197,Lakshmi Subramanian,F,17.0,Private,bachelor's,Yes,Y,21.8,87.4,73.9,72.2,69.3,85.3,2026-03-24,OP-01,Form scanned,Survey_Form_2026
+STU1140,Gokul Nair,FEMALE,16.0,Private,High School,Yes,No,16.0,77.9,59.8,47.7,54.9,54.9,07/03/2026,OP-03,,Survey_Form_2026
+STU1254,Priya Menon,Female,18.0,Aided,High School,,NO,11.6,87.9,59.8,58.1,50.5,43.9,27-03-2026,OP-02,,Survey_Form_2026
+STU1385,Manoj Murugan,m,18.0,government,Diploma,No,YES,17.7,75.3,51.3,54.7,63.9,55.7,11-03-2026,OP-02,Entered late,Survey_Form_2026
+STU1453,Rahul Sharma,Male,18.0,Government,Bachelor's,,No,10.5,91.4,,38.6,48.8,30.2,18/03/2026,OP-01,,Survey_Form_2026
+STU1299,Rahul Sharma,Female,19.0,Private,Bachelor's,Yes,No,15.5,72.4,52.1,-20.0,59.2,65.6,2026-03-14,OP-02,,Survey_Form_2026
+STU1060,Gokul Gupta,Male,15.0,Aided,High School,Yes,no,5.5,86.1%,63.1,59.3,43.0,58.0,07/03/2026,OP-03,,Survey_Form_2026
+STU1112,Ajay Balaji,f,15.0,Private ,High School,Y,N,,85.0%,83.4,88.5,87.4,87.1,2026-03-22,OP-03,,Survey_Form_2026
+STU1499,Deepika Menon,FEMALE,17.0,Private,Diploma,yes,N,22.7,100.0,56.3,57.3,67.1,78.0,08/03/2026,OP-03,Form scanned,Survey_Form_2026
+STU1432,Suresh Rao,M,15.0,Government,Bachelor's,Yes,N,23.0,88.8,57.9,61.0,62.2,70.7,2026-03-17,OP-02,Re-checked,Survey_Form_2026
+STU1381,Sneha Selvam,Male,17.0,Aided,Bachelor's,Yes,No,16.8,85.5,71.9,67.5,53.1,70.2,19-03-2026,OP-01,Re-checked,Survey_Form_2026
+STU1151,Pooja Kumar,m,15.0,Aided,BACHELOR'S,Y,Yes,26.0,84.4,59.2,68.5,71.2,70.2,2026-03-15,OP-02,,Survey_Form_2026
+STU1403,Karthik Rao,Female,15.0,Government,Bachelor's,No,No,23.9,79.4,43.8,61.6,46.4,41.1,27/03/2026,OP-03,,Survey_Form_2026
+STU1039,Karthik Iyer,Female,15.0,Government,High School,Yes,No,12.9,84.5,49.8,45.8,43.8,43.0,2026-03-13,OP-02,Form scanned,Survey_Form_2026
+STU1332,Praveen Krishnan,m,17.0,Aided,High School,Yes,No,24.4,94.1,43.2,70.8,49.0,60.6,2026-03-11,OP-02,Entered late,Survey_Form_2026
+STU1199,Kavya Bose,female,17.0,PRIVATE,High School,Yes,N,8.9,88.8,61.8,55.0,,51.7,"March 23, 2026",OP-01,,Survey_Form_2026
+STU1429,Revathi Krishnan,Male,16.0,Aided,High School,No,Yes,13.7,100.0,57.4,60.8,54.0,51.8,2026-03-25,OP-01,,Survey_Form_2026
+STU1147,Lakshmi Rao,Male,18.0,Government,High School,Yes,Yes,9.7,75.9,63.5,56.1,58.3,45.0,22/03/2026,OP-01,Verified,Survey_Form_2026
+STU1415,Meena Rao,female,18.0,Private,High School,Yes,Yes,25.8,87.7,62.1,70.5,87.6,70.5,"March 06, 2026",OP-03,,Survey_Form_2026
+STU1148,Dinesh Sharma,Male,18.0,Aided,Diploma,No,No,22.0,80.3,85.8,69.6,69.7,78.6,2026-03-21,OP-01,,Survey_Form_2026
+STU1323,Rahul Kumar,Male,19.0,Government,High School,Yes,No,25.5,93.6,47.3,65.6,55.3,60.1,26/03/2026,OP-01,Entered late,Survey_Form_2026
+STU1409,Suresh Iyer,Male,18.0,Government,High School,no,n,21.1,86.9,42.2,48.6,56.8,63.6,21/03/2026,OP-01,Verified,Survey_Form_2026
+STU1124,Anjali Sharma,Male,16.0,Aided,Diploma,y,YES,25.9,69.5,,,50.9,66.4,04/03/2026,OP-03,,Survey_Form_2026
+STU1389,Ajay Selvam,Male,17.0,Government,High School,No,no,8.3,100.0,54.9,46.1,37.0,46.6,2026-03-11,OP-01,Re-checked,Survey_Form_2026
+STU1097,Deepika Sharma,f,17.0,Private,Diploma,Yes,Yes,13.7,94.0,44.6,63.5,65.2,59.2,2026-03-24,OP-01,Verified,Survey_Form_2026
+STU1144,Arun Balaji,,17.0,Government,Bachelor's,n,Yes,20.3,79.1,49.3,,61.7,73.6,22 Mar 2026,OP-03,Re-checked,Survey_Form_2026
+STU1240,Divya Selvam,F,17.0,Aided,High School,Yes,No,,74.4%,36.1,32.5,35.3,42.5,2026-03-12,OP-02,Verified,Survey_Form_2026
+STU1287,Divya Balaji,Male,,Private,High School,yes,Yes,26.0,95.0,39.3,65.4,64.2,,2026-03-10,OP-03,,Survey_Form_2026
+STU1098,Pooja Nair,Male,18.0,Private,High School,No,y,15.9,76.6,40.1,49.9,46.9,50.7,2026-03-04,OP-01,,Survey_Form_2026
+STU1418,Anjali Pillai,,17.0,Government,Bachelor's,Yes,No,13.2,71.2%,40.9,41.3,47.7,,2026-03-22,OP-02,Verified,Survey_Form_2026
+STU1370,Deepika Balaji,,17.0,Government,Master's,yes,NO,13.7,92.0,51.0,55.9,52.0,48.2,22-03-2026,OP-03,,Survey_Form_2026
+STU1123,Manoj Balaji,Male,17.0,Private,High School,No,No,,84.9,58.9,37.6,,,23/03/2026,OP-02,Re-checked,Survey_Form_2026
+STU1184,Revathi Mohan,,16.0,aided,High School,yes,Yes,4.1,94.6,65.7,54.0,46.3,54.9,2026-03-17,OP-03,,Survey_Form_2026
+STU1203,Praveen Nair,Female,18.0,Government,Diploma,,Yes,13.8,100.0,50.7,58.2,50.6,50.2,2026-03-18,OP-02,Verified,Survey_Form_2026
+STU1247,Divya Natarajan,Male,16.0,Government ,Bachelor's,Yes,No,12.6,79.8%,52.4,45.0,57.2,51.4,2026-03-18,OP-02,,Survey_Form_2026
+STU1322,Nandhini Kumar,M,18.0, Aided,Diploma,yes,No,,74.8,44.2,49.0,57.7,37.8,06/03/2026,OP-03,,Survey_Form_2026
+STU1313,Praveen Mohan,M,17.0,Private,High School,,n,29.1,60.3,70.7,62.4,62.0,56.4,2026-03-24,OP-02,,Survey_Form_2026
+STU1371,Keerthana Pillai,Male,16.0,Private,Bachelor's,Yes,Y,24.7,105.0,53.9,65.2,78.0,70.9,06/03/2026,OP-02,Verified,Survey_Form_2026
+STU1315,Praveen Rao,Female,16.0,Government,Diploma,y,no,19.0,82.2,66.7,68.5,50.9,64.6,2026-03-09,OP-03,,Survey_Form_2026
+STU1419,Rahul Mohan,Male,18.0,Government,High School,no,NO,15.5,71.7,48.3,37.3,36.8,43.8,2026-03-04,OP-02,Form scanned,Survey_Form_2026
+STU1298,Rahul Reddy,f,,Government ,Bachelor's ,y,yes,20.4,84.6,48.6,58.3,64.0,70.3,2026-03-06,OP-02,,Survey_Form_2026
+STU1126,Karthik Iyer,female,18.0,Aided,Diploma,Yes,No,21.4,94.4,40.5,53.3,63.2,51.0,"March 13, 2026",OP-03,Form scanned,Survey_Form_2026
+STU1490,Keerthana Iyer,FEMALE,17.0,Private,Bachelor's,Yes,Yes,25.7,81.6%,,67.7,70.5,73.4,2026-03-19,OP-01,,Survey_Form_2026
+STU1224,Divya Chandran,MALE,18.0,Private,Master's,y,N,10.6,86.6,59.6,59.6,63.8,66.0,2026-03-25,OP-03,,Survey_Form_2026
+STU1442,Sneha Balaji,f,,Private,HIGH SCHOOL,YES,no,18.1,90.4,36.1,53.8,52.4,55.4,20-03-2026,OP-01,,Survey_Form_2026
+STU1220,Naveen Kumar,MALE,18.0, Private,Diploma,Y,No,13.2,85.4,30.1,40.8,,38.3,09/03/2026,OP-03,Re-checked,Survey_Form_2026
+STU1130,Vignesh Nair,M,18.0,Private,Bachelor's,No,Yes,16.4,80.3%,53.8,57.1,69.7,57.1,2026-03-24,OP-02,Verified,Survey_Form_2026
+STU1455,Nandhini Menon,Female,17.0,Private,High School,Yes,No,45.0,89.4,53.5,81.7,79.5,73.5,15-03-2026,OP-03,,Survey_Form_2026
+STU1303,Vijay Iyer,Male,17.0,private,Diploma,No,YES,30.4,79.2,57.8,59.7,74.1,74.3,2026-03-27,OP-02,Entered late,Survey_Form_2026
+STU1365,Priya Selvam,Female,17.0,Government,Bachelor's,Yes,No,11.7,95.2,71.4,52.9,64.6,45.0,2026-03-18,OP-02,Form scanned,Survey_Form_2026
+STU1399,Swathi Pillai,female,,Government,Diploma,Yes,YES,13.5,92.4,37.2,51.8,66.4,57.1,04 Mar 2026,OP-01,Entered late,Survey_Form_2026
+STU1305,Gokul Iyer,m,17.0,Government ,Master's,n,No,32.6,77.1,65.8,82.9,66.4,60.9,2026-03-03,OP-03,Verified,Survey_Form_2026
+STU1375,Nandhini Kumar,Female,16.0,Private,High School,No,No,27.0,78.9,61.6,68.7,74.7,67.4,27/03/2026,OP-03,Form scanned,Survey_Form_2026
+STU1060,Gokul Gupta,Male,15.0,Aided,High School,Yes,no,5.5,86.1%,63.1,59.3,43.0,58.0,07/03/2026,OP-03,,Survey_Form_2026
+STU1295,Divya Reddy,female,15.0,Government,Bachelor's,Yes,No,23.0,92.9,48.5,56.9,54.9,62.6,2026-03-21,OP-02,,Survey_Form_2026
+STU1387,Rahul Natarajan,Male,16.0,government,Bachelor's,Yes,Yes,15.1,81.9,37.4,37.8,54.4,52.4,24/03/2026,OP-02,Form scanned,Survey_Form_2026
+STU1358,Ajay Krishnan,,17.0,Private,Bachelor's,Yes,Yes,-,90.8,49.1,58.3,56.3,49.8,14 Mar 2026,OP-02,Entered late,Survey_Form_2026
+STU1113,Nandhini Pillai,F,18.0,Private,High School,Yes,No,5.9,87.3,59.0,42.7,27.9,32.6,2026-03-18,OP-01,,Survey_Form_2026
+STU1180,Revathi Raj,Male,,Government,Bachelor's,Yes,No,,79.4%,52.2,51.5,44.7,41.4,25/03/2026,OP-01,,Survey_Form_2026
+STU1324,Anjali Mohan,male,16.0,Private, Diploma,n,No,29.5,66.0,65.3,65.4,59.0,62.8,2026-03-26,OP-01,Verified,Survey_Form_2026
+STU1357,Vijay Iyer,Male,17.0,Private,Bachelor's,Yes,YES,14.4,80.4,,63.2,62.4,53.1,2026-03-23,OP-03,Verified,Survey_Form_2026
+STU1348,Dinesh Balaji,Female,17.0,Private,,Yes,n,110.0,100.0,55.8,89.9,87.1,75.6,2026-03-03,OP-01,Re-checked,Survey_Form_2026
+STU1146,Suresh Selvam,female,17.0,Private,High School,Yes,No,15.9,90.3,71.1,60.8,76.5,54.1,05-03-2026,OP-01,Re-checked,Survey_Form_2026
+STU1413,Naveen Venkatesh,M,18.0,Private,High School,No,No,9.8,85.3%,56.9,?,,44.0,10 Mar 2026,OP-01,,Survey_Form_2026
+STU1234,Pooja Subramanian,M,19.0,Government,,Yes,yes,17.1,78.5,60.0,,51.6,60.1,03/03/2026,OP-01,,Survey_Form_2026
+STU1473,Karthik Sharma,female,17.0,Government,High School,Y,No,23.2,88.4,66.8,65.2,73.3,58.2,14/03/2026,OP-02,Re-checked,Survey_Form_2026
+STU1445,Keerthana Gupta,Female,15.0,Aided,High School,y,N,22.5,68.3,49.4,47.1,57.4,40.9,11 Mar 2026,OP-03,Re-checked,Survey_Form_2026
+STU1165,Nandhini Krishnan,male,15.0,GOVERNMENT,Bachelor's,yes,No,22.2,77.6,61.1,56.9,82.0,55.9,"March 11, 2026",OP-02,Re-checked,Survey_Form_2026
+STU1318,Rohit Reddy,Female,16.0,Aided,Bachelor's,yes,NO,21.5,82.1,40.5,48.4,38.4,62.7,2026-03-19,OP-02,Form scanned,Survey_Form_2026
+STU1137,Praveen Selvam,Male,17.0,Private,Master's,Yes,Yes,20.3,96.1,55.5,86.3,77.4,71.5,"March 11, 2026",OP-03,,Survey_Form_2026
+STU1198,Rahul Kumar,FEMALE,15.0,Aided,Master's,Yes,No,,76.8,57.5,67.6,65.4,55.9,12/03/2026,OP-01,,Survey_Form_2026
+STU1259,Meena Bose,m,17.0,Government,High School,Yes,No,10.4,91.3,50.4,51.1,56.0,42.4,12/03/2026,OP-03,,Survey_Form_2026
+STU1233,Arun Reddy,Female,15.0,government,MASTER'S,YES,n,31.1,76.2,45.9,68.6,57.8,69.1,2026-03-23,OP-03,,Survey_Form_2026
+STU1116,Lakshmi Krishnan,MALE,17.0,Private,Master's,Yes,Yes,36.7,77.4%,72.9,72.1,91.7,95.1,2026-03-11,OP-01,Entered late,Survey_Form_2026
+STU1121,Sanjay Selvam,MALE,16.0,Private,Bachelor's,y,Yes,14.8,96.4,46.6,52.4,69.2,68.5,2026-03-22,OP-01,Verified,Survey_Form_2026
+STU1368,Harish Iyer,MALE,17.0,Private, Bachelor's,YES,Yes,5.7,82.2%,65.1,57.1,52.7,44.7,2026-03-21,OP-02,,Survey_Form_2026
+STU1225,Praveen Venkatesh,Male,16.0,Government,high school,Yes,no,18.6,90.6,47.2,38.7,47.8,40.2,19/03/2026,OP-01,Re-checked,Survey_Form_2026
+STU1426,Swathi Subramanian,Female,19.0,government,Bachelor's,Yes,Yes,17.2,82.5,58.4,52.1,54.7,67.3,"March 19, 2026",OP-03,,Survey_Form_2026
+STU1355,Priya Rao,,18.0,GOVERNMENT,diploma,No,No,7.7,75.9,49.9,150.0,38.1,49.6,2026-03-10,OP-01,Re-checked,Survey_Form_2026
+STU1128,Suresh Sharma,f,17.0, Government,High School,Yes,Yes,28.2,,83.9,81.8,82.3,70.3,06 Mar 2026,OP-02,Entered late,Survey_Form_2026
+STU1248,Sneha Raj,Female,19.0,AIDED,Diploma,Yes,NO,20.8,95.5,45.6,44.3,,53.9,18/03/2026,OP-02,Re-checked,Survey_Form_2026
+STU1286,Nandhini Pillai,Male,17.0,Government,Diploma,No,No,15.8,74.6,48.6,52.2,48.3,45.4,2026-03-25,OP-01,,Survey_Form_2026
+STU1435,Sanjay Krishnan,Female,19.0,Private,High School,Yes,N,9.7,71.1,48.7,33.6,44.8,37.5,21/03/2026,OP-03,Re-checked,Survey_Form_2026
+STU1108,Keerthana Rao,m,,government,High School,y,YES,14.2,86.8,55.0,62.8,51.2,60.0,16/03/2026,OP-01,,Survey_Form_2026
+STU1391,Deepika Krishnan,Male,18.0,Government,Bachelor's,n,Yes,13.5,71.8,54.4,48.6,53.2,51.0,24/03/2026,OP-01,Entered late,Survey_Form_2026
+STU1343,Ishwarya Pillai,Male,16.0,Aided,Bachelor's,Y,Y,12.3,89.0%,33.0,48.6,53.9,,21/03/2026,OP-02,Re-checked,Survey_Form_2026
+STU1134,Dinesh Gupta,,17.0,Government,High School,yes,no,9.3,,54.2,32.7,56.3,38.6,2026-03-17,OP-03,,Survey_Form_2026
+STU1384,Ajay Murugan,Male,17.0,Aided,Diploma,N,No,28.2,89.4,57.6,62.6,59.8,71.1,2026-03-16,OP-02,Entered late,Survey_Form_2026
+STU1045,Vignesh Sharma,m,17.0,Government,Bachelor's,Y,No,11.2,92.4,,46.4,53.6,50.3,2026-03-16,OP-01,,Survey_Form_2026
+STU1488,Rahul Subramanian,f,17.0,Government,High School,YES,N,14.1,85.4%,50.0,34.1,46.6,38.9,22/03/2026,OP-02,,Survey_Form_2026
+STU1066,Ajay Kumar,Female,19.0,Private,Bachelor's,No,N,25.3,66.6,66.0,65.3,54.1,70.4,2026-03-17,OP-01,Form scanned,Survey_Form_2026
+STU1284,Swathi Kumar,male,17.0,Private,High School,Yes,YES,14.8,91.7,72.4,67.6,73.3,67.3,2026-03-10,OP-01,,Survey_Form_2026
+STU1086,Revathi Kumar,m,16.0,Private,High School,yes,No,39.3,84.4,54.0,74.9,82.0,67.3,03-03-2026,OP-03,,Survey_Form_2026
+STU1243,Vijay Raj,male,17.0,Private,High School,Yes,Yes,10.0,73.3,43.6,49.9,54.0,47.5,13/03/2026,OP-01,Re-checked,Survey_Form_2026
+STU1187,Revathi Subramanian,Female,17.0,AIDED,Diploma,Yes,N,10.4,83.3,33.5,41.2,53.9,40.0,12/03/2026,OP-02,Form scanned,Survey_Form_2026
+STU1406,Arun Iyer,Female,16.0,Private,Master's,Yes,Yes,11.6,86.5,57.4,75.0,60.8,59.4,2026-03-23,OP-02,,Survey_Form_2026
+STU1160,Karthik Pillai,Male,15.0,Government,Bachelor's,No,yes,8.5,92.0,45.8,52.9,45.4,53.6,20/03/2026,OP-02,Entered late,Survey_Form_2026
+STU1013,Revathi Subramanian,Male,,Government,Bachelor's,Yes,No,20.3,,72.5,61.2,69.1,64.3,09/03/2026,OP-02,Re-checked,Survey_Form_2026
+STU1036,Ajay Reddy,MALE,16.0,Government,High School,Yes,N,7.5,97.5,48.2,999.0,43.9,49.9,25/03/2026,OP-01,Re-checked,Survey_Form_2026
+STU1029,Ishwarya Balaji,,19.0,Private,High School,Y,Yes,33.8,83.2,73.2,79.2,85.7,68.7,27/03/2026,OP-03,,Survey_Form_2026
+STU1171,Dinesh Balaji,FEMALE,18.0,Government,High School,Y,Yes,12.8,87.2,52.3,58.5,67.1,48.7,17 Mar 2026,OP-01,Verified,Survey_Form_2026
+STU1143,Deepika Iyer,Male,18.0,Government,Master's,No,No,7.9,97.0,46.0,51.0,45.6,53.6,22 Mar 2026,OP-03,Entered late,Survey_Form_2026
+STU1422,Sanjay Subramanian,Male,15.0,Private,High School,Yes,Yes,14.5,79.5,58.6,43.0,56.3,63.7,2026-03-15,OP-03,Verified,Survey_Form_2026
+STU1395,Swathi Mohan,Female,19.0,Private,High School,N,Yes,6.2,89.9,,54.8,47.7,54.4,2026-03-05,OP-03,Re-checked,Survey_Form_2026
+STU1222,Sneha Natarajan,Female,19.0,Aided,Diploma,Yes,Yes,13.2,69.1%,77.0,57.6,71.4,58.8,05/03/2026,OP-01,Re-checked,Survey_Form_2026
+STU1096,Sneha Nair,Female,18.0,Government,Bachelor's,Yes,No,10.2,97.8,58.9,54.8,49.6,60.5,2026-03-03,OP-02,,Survey_Form_2026
+STU1052,Harish Iyer,FEMALE,18.0,Government,High School,y,y,12.9,80.8,72.9,57.1,71.5,47.2,20/03/2026,OP-02,Entered late,Survey_Form_2026
+STU1241,Revathi Venkatesh,f,15.0,Government,Bachelor's,No,Yes,25.1,84.0%,73.4,81.0,,80.9,23 Mar 2026,OP-02,Verified,Survey_Form_2026
+STU1393,Vignesh Krishnan,M,18.0,Government,Bachelor's,YES,No,29.3,87.3,,63.1,76.6,60.0,"March 06, 2026",OP-03,,Survey_Form_2026
+STU1352,Divya Reddy,MALE,, Government,High School,NO,no,10.1,,20.6,34.3,,45.9,2026-03-25,OP-03,Verified,Survey_Form_2026
+STU1401,Dinesh Murugan,M,17.0,Aided,High School,y,No,8.8,81.9%,52.6,38.6,45.1,44.7,23/03/2026,OP-02,Re-checked,Survey_Form_2026
+STU1179,Ajay Subramanian,female,5.0,Government,Master's,Yes,n,20.4,,48.3,61.3,,57.9,2026-03-18,OP-01,Verified,Survey_Form_2026
+STU1042,Swathi Iyer,MALE,17.0,Aided ,,Yes,Yes,25.1,78.1,57.5,63.6,59.7,74.9,03/03/2026,OP-02,Re-checked,Survey_Form_2026
+STU1461,Anjali Rao,Female,16.0,Aided,Bachelor's,No,No,4.6,75.0,23.0,30.0,40.5,39.7,2026-03-08,OP-03,Form scanned,Survey_Form_2026
+STU1417,Swathi Murugan,f,17.0,Government,High School,Yes,NO,15.9,82.7,54.6,41.1,44.6,56.2,2026-03-25,OP-02,Verified,Survey_Form_2026
+STU1207,Praveen Gupta,Male,18.0,Private,High School,Yes,Yes,9.3,,51.9,43.2,42.1,51.1,"March 04, 2026",OP-02,,Survey_Form_2026
+STU1283,Nandhini Chandran,MALE,17.0,Aided,High School,yes,Yes,14.8,94.9,48.0,57.5,51.6,48.9,2026-03-27,OP-01,Verified,Survey_Form_2026
+STU1359,Janani Kumar,M,16.0,Government,Diploma,Yes,yes,29.8,83.4,53.6,70.0,70.6,72.2,2026-03-19,OP-01,Entered late,Survey_Form_2026
+STU1255,Gokul Raj,F,18.0,Private,High School,Yes,yes,13.2,94.2,,65.6,53.1,54.0,27/03/2026,OP-03,Re-checked,Survey_Form_2026
+STU1378,DINESH NATARAJAN,mALE,16.0,gOVERNMENT,,n,Y,,84.7,79.9,56.0,51.7,66.1,2026-03-07,OP-03,,Survey_Form_2026
+STU1005,Rahul Pillai,Male,16.0,Aided,HIGH SCHOOL,Yes,No,14.6,86.7,51.1,47.0,48.3,,"March 16, 2026",OP-01,,Survey_Form_2026
+STU1257,Priya Venkatesh,Male,18.0,Government,Bachelor's,No,Yes,13.1,85.4,58.9,56.7,60.4,58.1,18/03/2026,OP-02,Re-checked,Survey_Form_2026
+STU1474,Priya Menon,Female,17.0,Private,High School,Yes,YES,7.8,89.7,34.1,36.2,49.2,45.6,2026-03-20,OP-02,,Survey_Form_2026
+STU1101,Arun Nair,f,19.0,Aided,Master's,y,No,19.0,80.9,66.7,68.1,77.6,63.3,2026-03-15,OP-02,,Survey_Form_2026
+STU1227,Rahul Iyer,,16.0,Government,High School,y,yes,10.4,76.1,44.6,54.6,58.5,40.5,2026-03-17,OP-03,,Survey_Form_2026
+STU1451,Janani Selvam,MALE,,Aided,High School,No,No,31.4,71.4,41.1,57.3,73.6,58.6,2026-03-22,OP-02,,Survey_Form_2026
+STU1214,Swathi Selvam,Female,16.0,Private,Bachelor's,Yes,n,22.1,79.4,,51.8,65.6,50.3,2026-03-15,OP-02,Re-checked,Survey_Form_2026
+STU1480,Arun Selvam,f,18.0,Government,Diploma,Yes,Yes,4.6,86.0,63.0,53.5,55.6,57.0,"March 06, 2026",OP-02,Form scanned,Survey_Form_2026
+STU1172,Ishwarya Chandran,Female,18.0,Aided,,Y,No,12.9,90.0,77.4,60.6,64.9,,24/03/2026,OP-02,,Survey_Form_2026
+STU1099,Karthik Reddy,MALE,16.0,Private,High School,No,N,10.7,,64.7,53.5,46.9,57.3,2026-03-12,OP-02,,Survey_Form_2026
+STU1293,Rohit Selvam,Female,17.0,Government,Master's,Yes,Yes,21.6,77.4,36.6,59.7,64.5,79.9,05 Mar 2026,OP-03,,Survey_Form_2026
+STU1216,Suresh Selvam,female,17.0,Government,Bachelor's,yes,No,26.4,74.3,,68.2,60.2,79.3,2026-03-24,OP-02,,Survey_Form_2026
+STU1062,Suresh Rao,M,15.0,Government ,Diploma,Yes,No,16.1,79.9,50.8,50.9,59.4,47.8,2026-03-13,OP-02,,Survey_Form_2026
+STU1048,Revathi Bose,,17.0,Government,High School,n,No,9.2,91.2,67.6,56.5,58.8,47.1,20/03/2026,OP-01,Re-checked,Survey_Form_2026
+STU1033,Divya Subramanian,Male,16.0,Government,High School,Yes,No,20.2,86.9,64.9,52.4,73.1,62.0,2026-03-09,OP-03,Re-checked,Survey_Form_2026
+STU1268,Rahul Rao,Female,17.0,Government,High School,No,Yes,23.3,85.8,65.7,68.9,59.8,50.3,04-03-2026,OP-01,Re-checked,Survey_Form_2026
+STU1328,Meena Natarajan,F,18.0,Government,Diploma,Y,no,8.2,91.9%,29.0,21.7,49.0,41.1,27 Mar 2026,OP-02,,Survey_Form_2026
+STU1201,Swathi Mohan,,17.0,Government,Bachelor's,Yes,n,27.3,79.5,66.4,63.9,70.7,72.3,2026-03-21,OP-03,Form scanned,Survey_Form_2026
+STU1472,Swathi Rao,Female,15.0,Government,Diploma,Yes,n,,88.4,65.4,64.4,68.2,53.9,23/03/2026,OP-01,Form scanned,Survey_Form_2026
+STU1028,Gokul Menon,F,15.0,Private,High School,Yes,no,21.5,98.9,67.3,65.9,68.4,68.1,"March 14, 2026",OP-01,,Survey_Form_2026
+STU1412,Dinesh Bose,Male,16.0,Private,Bachelor's,No,Y,13.1,73.5,40.1,57.3,52.1,63.5,19-03-2026,OP-01,,Survey_Form_2026
+STU1231,Anjali Krishnan,Male,17.0,Government,High School,,No,21.4,91.2%,44.0,54.7,51.4,46.4,2026-03-03,OP-02,Re-checked,Survey_Form_2026
+STU1261,Manoj Raj,Male,16.0,Private,High School,Yes,YES,22.8,94.2%,47.7,64.2,62.0,67.8,"March 15, 2026",OP-03,Re-checked,Survey_Form_2026
+STU1379,Kavya Nair,Male,15.0,Private,Diploma,,N,22.3,68.0,54.8,70.0,52.7,60.5,2026-03-11,OP-01,,Survey_Form_2026
+STU1289,Ishwarya Raj,Female,16.0,Private,Diploma,Yes,No,18.3,87.3,34.8,45.2,52.8,57.1,2026-03-05,OP-03,Verified,Survey_Form_2026
+STU1163,Priya Chandran,MALE,17.0,Government,High School,n,NO,26.2,79.0%,72.8,72.7,46.2,,2026-03-17,OP-02,,Survey_Form_2026
+STU1392,Suresh Sharma,Female,16.0,Private,High School,,n,14.6,82.9%,25.8,44.3,48.9,36.1,2026-03-27,OP-01,,Survey_Form_2026
+STU1449,Ishwarya Rao,M,16.0,Private,High School,y,Y,29.7,78.6,41.6,61.2,67.2,55.8,2026-03-23,OP-01,Form scanned,Survey_Form_2026
+STU1139,Meena Bose,Male,17.0,Private,Bachelor's,yes,Yes,10.3,93.4,73.7,,68.4,55.4,"March 26, 2026",OP-01,Entered late,Survey_Form_2026
+STU1063,Swathi Selvam,Male,19.0,Private,Bachelor's,y,no,4.9,79.3,55.3,58.1,54.3,40.0,04/03/2026,OP-02,Entered late,Survey_Form_2026
+STU1136,Keerthana Kumar,female,16.0,Government,High School,Yes,YES,39.1,93.7%,57.1,85.2,77.7,93.1,2026-03-11,OP-02,Verified,Survey_Form_2026
+STU1129,Ishwarya Balaji,Female,17.0,Aided,High School,yes,Yes,10.6,87.1%,53.2,53.1,54.6,52.3,"March 27, 2026",OP-01,Form scanned,Survey_Form_2026
+STU1182,Swathi Rao,MALE,17.0, Government,Master's,Yes,NO,,74.9,40.4,49.1,46.0,,06/03/2026,OP-01,Form scanned,Survey_Form_2026
+STU1009,Suresh Krishnan,Female,19.0,Aided,High School,Y,Yes,14.1,87.7%,37.9,54.1,59.1,51.3,"March 12, 2026",OP-02,,Survey_Form_2026
+STU1327,Kavya Sharma,Male,17.0, Aided,Bachelor's,Yes,N,14.9,100.0,,69.7,58.4,48.2,03/03/2026,OP-03,Verified,Survey_Form_2026
+STU1203,Praveen Nair,Female,18.0,Government,Diploma,,Yes,13.8,100.0,50.7,58.2,50.6,50.2,2026-03-18,OP-02,Verified,Survey_Form_2026
+STU1065,Vignesh Rao,Male,17.0,Private,Bachelor's,yes,No,9.1,88.4,51.8,49.7,50.9,,2026-03-27,OP-03,Verified,Survey_Form_2026
+STU1301,Rahul Bose,Female,17.0,Private,Bachelor's,y,no,13.6,81.7,50.7,48.8,67.8,58.8,2026-03-25,OP-03,,Survey_Form_2026
+STU1015,Gokul Bose,Male,15.0,government,DIPLOMA,Yes,NO,14.5,100.0,70.9,57.0,79.3,,16 Mar 2026,OP-02,,Survey_Form_2026
+STU1157,Gokul Bose,FEMALE,15.0,Private,High School,Yes,Yes,19.7,150.0%,63.6,70.3,68.1,64.1,2026-03-03,OP-01,Re-checked,Survey_Form_2026
+STU1041,Ajay Venkatesh,Male,17.0,Private,Diploma,Yes,No,,80.6,74.3,73.2,72.2,70.9,2026-03-03,OP-03,Entered late,Survey_Form_2026
+STU1380,Rahul Iyer,Female,17.0,Aided,Bachelor's,y,no,9.1,81.4,42.4,52.5,40.7,56.1,02-03-2026,OP-03,,Survey_Form_2026
+STU1486,Lakshmi Pillai,Female,16.0,Private,Diploma,Yes,No,24.1,100.0%,75.4,67.9,68.9,77.0,15/03/2026,OP-01,,Survey_Form_2026
+STU1427,Sneha Raj,Female,15.0,Government,High School,Yes,Yes,5.7,87.0,44.4,57.7,41.3,51.7,16 Mar 2026,OP-02,Re-checked,Survey_Form_2026
+STU1217,Priya Rao,Female,17.0,Aided,High School,YES,yes,5.5,94.6,56.1,58.0,33.6,54.6,2026-03-06,OP-02,Entered late,Survey_Form_2026
+STU1410,Nandhini Raj,Female,18.0,Government,Master's,YES,No,15.1,76.6,73.8,57.1,65.8,58.0,2026-03-23,OP-02,Form scanned,Survey_Form_2026
+STU1280,Karthik Gupta,Male,16.0,Private,Master's,y,No,17.3,92.8,50.4,71.1,46.6,74.6,24-03-2026,OP-01,Verified,Survey_Form_2026
+STU1497,Rahul Selvam,Male,18.0,PRIVATE,Diploma,no,Yes,19.7,70.8%,47.2,51.5,65.8,54.5,18/03/2026,OP-02,,Survey_Form_2026
+STU1456,Kavya Mohan,Female,16.0,Private,High School,Yes,No,8.6,84.6,33.5,?,41.7,43.9,"March 20, 2026",OP-02,Verified,Survey_Form_2026
+STU1338,Janani Murugan,Female,17.0,Private,N/A,Y,Y,16.0,87.5,73.0,58.4,48.7,62.2,2026-03-04,OP-02,Verified,Survey_Form_2026
+STU1237,Manoj Kumar,Male,17.0,Government,Diploma,Yes,No,7.3,72.2,59.5,52.4,54.1,45.1,19/03/2026,OP-03,Entered late,Survey_Form_2026
+STU1208,Sanjay Bose,Female,17.0,Private,Bachelor's,Y,Yes,15.5,89.9%,59.0,55.3,63.1,53.2,2026-03-25,OP-02,Form scanned,Survey_Form_2026
+STU1213,Anjali Reddy,F,,Private,High School,Y,No,7.3,,51.0,36.9,55.0,30.6,2026-03-08,OP-03,Entered late,Survey_Form_2026
+STU1296,Anjali Venkatesh,FEMALE,17.0,Government, Master's,,YES,12.9,86.7,,73.8,52.3,,25/03/2026,OP-02,Entered late,Survey_Form_2026
+STU1483,Vijay Krishnan,Female,17.0,Private,Bachelor's,Yes,No,24.2,79.1,72.1,67.9,,65.8,2026-03-20,OP-02,Re-checked,Survey_Form_2026
+STU1252,Divya Nair,Female,17.0,Government ,Master's,Yes,Yes,,81.9,48.6,49.8,56.6,48.9,2026-03-16,OP-03,Re-checked,Survey_Form_2026
+STU1080,Ajay Natarajan,male,18.0,Government,Bachelor's,yes,No,20.3,88.2,60.4,66.2,52.6,60.7,17/03/2026,OP-03,,Survey_Form_2026
+STU1484,Sneha Venkatesh,FEMALE,18.0,Aided,High School,Yes,Yes,18.1,85.9,60.9,67.5,51.1,60.2,2026-03-08,OP-02,,Survey_Form_2026
+STU1304,Suresh Murugan,Female,,Aided,Diploma,Yes,NO,85.0,99.8,39.4,61.1,60.3,43.6,19/03/2026,OP-02,,Survey_Form_2026
+STU1351,Arun Menon,Male,19.0,Government,Bachelor's,no,Yes,12.3,100.0,64.7,60.8,58.5,70.3,2026-03-08,OP-02,Re-checked,Survey_Form_2026
+STU1270,Vijay Bose,Male,16.0,Private,HIGH SCHOOL,Yes,No,26.0,68.4,69.4,58.0,64.9,68.1,2026-03-21,OP-01,,Survey_Form_2026
+STU1202,Meena Reddy,Female,18.0,Government ,Master's,Yes,No,,78.0,64.7,69.0,73.3,65.8,03-03-2026,OP-01,,Survey_Form_2026
+STU1162,Rohit Rao,Male,17.0,Private,Master's,Yes,n,,,69.4,72.7,89.5,80.0,2026-03-08,OP-03,,Survey_Form_2026
+STU1044,Ishwarya Reddy,Female,17.0,Private,,Yes,Yes,21.8,100.0%,69.7,71.3,59.0,77.5,17/03/2026,OP-02,,Survey_Form_2026
+STU1218,Janani Nair,Male,16.0,Government,High School,yes,N,6.7,91.2,57.0,,44.1,44.6,"March 21, 2026",OP-03,,Survey_Form_2026
+STU1402,Sanjay Balaji,M,,Government,Master's ,Yes,y,19.0,60.7,33.1,46.0,60.8,56.4,24-03-2026,OP-03,Verified,Survey_Form_2026
+STU1191,Janani Iyer,Female,16.0,Government,Master's,yes,n,25.6,81.4,,75.0,65.8,52.3,15 Mar 2026,OP-03,Re-checked,Survey_Form_2026
+STU1310,Gokul Balaji,Male,15.0,Private,High School,N,yes,17.8,99.5,62.2,70.7,76.9,67.4,20-03-2026,OP-02,Form scanned,Survey_Form_2026
+STU1260,Revathi Pillai,Female,,Aided,Bachelor's,N,No,5.3,75.8,51.1,40.9,36.6,37.7,07-03-2026,OP-01,,Survey_Form_2026
+STU1106,Dinesh Natarajan,Female,15.0,Private,BACHELOR'S,NO,yes,11.4,82.2,42.6,50.9,43.8,50.8,2026-03-03,OP-03,,Survey_Form_2026
+STU1054,Rohit Raj,,16.0,Private,Bachelor's,yes,YES,7.7,94.5,56.4,60.8,51.5,59.5,2026-03-09,OP-03,Form scanned,Survey_Form_2026
+STU1390,Sneha Subramanian,male,15.0,Private,Master's,Yes,Yes,13.1,92.0,75.4,66.7,63.1,55.0,2026-03-27,OP-03,,Survey_Form_2026
+STU1002,Vijay Selvam,Male,19.0,Private,,YES,No,8.8,75.8%,41.4,,62.4,57.5,2026-03-16,OP-03,Re-checked,Survey_Form_2026
+STU1187,Revathi Subramanian,Female,17.0,AIDED,Diploma,Yes,N,10.4,83.3,33.5,41.2,53.9,40.0,12/03/2026,OP-02,Form scanned,Survey_Form_2026
+STU1233,Arun Reddy,Female,15.0,government,MASTER'S,YES,n,31.1,76.2,45.9,68.6,57.8,69.1,2026-03-23,OP-03,,Survey_Form_2026
+STU1050,Keerthana Kumar,male,16.0,Aided,High School,YES,Yes,45.0,71.1,51.7,95.5,86.4,81.8,03-03-2026,OP-03,Verified,Survey_Form_2026
+STU1420,Pooja Mohan,F,17.0,Aided,Master's,No,NO,12.7,79.7,38.6,58.8,39.0,41.0,18/03/2026,OP-03,,Survey_Form_2026
+STU1081,Sneha Gupta,Male,18.0,Aided ,Bachelor's,,No,16.8,94.8,60.4,56.2,62.2,67.3,2026-03-10,OP-03,,Survey_Form_2026
+STU1206,Janani Kumar,Female,16.0,Aided,High School,yes,No,10.5,78.7,52.3,49.7,,30.7,22/03/2026,OP-01,,Survey_Form_2026
+STU1035,Dinesh Venkatesh,Male,18.0,Government,Diploma,Yes,Yes,15.8,87.0,55.4,66.9,62.5,54.1,13/03/2026,OP-03,Re-checked,Survey_Form_2026
+STU1431,Meena Raj,m,16.0,Government,Master's,No,no,12.6,84.3,44.0,53.2,,57.8,2026-03-22,OP-03,Verified,Survey_Form_2026
+STU1264,Keerthana Subramanian,F,19.0,Government,High School,NO,Yes,15.6,95.9,59.6,61.4,56.5,65.4,27/03/2026,OP-03,,Survey_Form_2026
+STU1428,Swathi Menon,m,18.0,Private,Bachelor's,Y,No,8.0,87.9,68.1,58.8,59.5,50.9,12-03-2026,OP-02,,Survey_Form_2026
+STU1500,Vijay Pillai,Male,18.0,Government,Diploma,Yes,No,14.0,91.5,48.7,54.3,39.7,43.2,2026-03-04,OP-03,,Survey_Form_2026
+STU1367,Anjali Natarajan,Male,15.0,Private,Bachelor's,yes,N,14.6,70.5,65.3,53.1,55.8,62.0,23-03-2026,OP-03,Re-checked,Survey_Form_2026
+STU1092,Revathi Rao,Female,18.0,Aided,Bachelor's,yes,Yes,18.9,81.6,47.8,59.0,61.2,68.6,2026-03-06,OP-02,,Survey_Form_2026
+STU1340,Vignesh Bose,M,16.0,Aided ,Master's,Y,NO,16.4,90.0,63.2,71.3,62.7,78.4,17/03/2026,OP-01,Entered late,Survey_Form_2026
+STU1199,Kavya Bose,female,17.0,PRIVATE,High School,Yes,N,8.9,88.8,61.8,55.0,,51.7,"March 23, 2026",OP-01,,Survey_Form_2026
+STU1053,Praveen Rao,Female,18.0,Government,Bachelor's,Y,YES,12.2,67.2,50.7,48.9,57.4,38.6,22-03-2026,OP-03,Re-checked,Survey_Form_2026
+STU1346,Ishwarya Selvam,Female,18.0,PRIVATE,Bachelor's,y,No,15.2,86.4,53.5,,55.7,59.4,"March 08, 2026",OP-03,Re-checked,Survey_Form_2026
+STU1265,Ajay Natarajan,f,19.0,Private,Master's,,Yes,17.2,100.0,60.3,82.1,,75.2,2026-03-05,OP-03,Form scanned,Survey_Form_2026
+STU1242,Sneha Pillai,M,18.0,Government,Bachelor's,Yes,Yes,16.9,94.5,45.3,53.0,62.5,64.5,25-03-2026,OP-02,Entered late,Survey_Form_2026
+STU1014,Rohit Gupta,Female,16.0,Government,Bachelor's,No,No,12.5,78.9,30.2,,39.4,31.8,17-03-2026,OP-03,Form scanned,Survey_Form_2026
+STU1316,Rahul Menon,Male,17.0,Private,High School,,NO,25.1,77.6,67.0,65.3,78.8,60.3,2026-03-25,OP-03,,Survey_Form_2026
+STU1089,Anjali Natarajan,female,17.0,Government,High School,Yes,Yes,13.6,77.0,51.6,51.5,39.8,53.4,2026-03-08,OP-03,Verified,Survey_Form_2026
+STU1388,Priya Subramanian,m,19.0,Government,Master's,Yes,Yes,8.5,91.9,50.4,62.0,48.1,54.6,04/03/2026,OP-03,,Survey_Form_2026
+STU1274,Rohit Venkatesh,Female,15.0,Private,Bachelor's,Yes,No,25.2,84.4,65.7,84.2,64.2,67.6,03/03/2026,OP-02,,Survey_Form_2026
+STU1167,Pooja Natarajan,Female,18.0,Private,Bachelor's,NO,No,150.0,88.0,59.9,,55.8,62.7,2026-03-20,OP-02,,Survey_Form_2026
+STU1329,Rahul Chandran,Female,18.0,Private,Bachelor's,Yes,No,23.4,80.0,46.0,66.7,56.2,,"March 08, 2026",OP-02,,Survey_Form_2026
+STU1126,KARTHIK IYER,FEMALE,18.0,aIDED,Diploma,Yes,No,21.4,94.4,40.5,53.3,63.2,51.0,"March 13, 2026",OP-03,Form scanned,Survey_Form_2026
+STU1135,Rahul Pillai,MALE,16.0,Government,bachelor's,No,No,17.5,86.4,45.4,48.8,41.0,40.9,06/03/2026,OP-03,Entered late,Survey_Form_2026
+STU1307,Janani Raj,Male,15.0,Private,Diploma,y,Yes,19.9,86.0%,50.6,65.4,65.6,66.0,06/03/2026,OP-02,,Survey_Form_2026
+STU1229,Sanjay Sharma,Male,17.0,Aided,Bachelor's,No,Y,26.2,78.6,60.1,8.0,65.0,67.0,10/03/2026,OP-01,Verified,Survey_Form_2026
+STU1320,Vignesh Raj,m,18.0,Government,Master's,N,No,22.3,81.6,63.5,76.1,68.7,66.3,03-03-2026,OP-03,Entered late,Survey_Form_2026
+STU1244,Divya Chandran,f,18.0,Government,Diploma,Yes,no,23.3,83.1,55.3,49.0,60.9,51.3,2026-03-23,OP-01,Entered late,Survey_Form_2026
+STU1055,Divya Bose,Male,15.0,Government ,Bachelor's,Yes,Yes,18.5,82.6,61.9,58.0,58.4,57.1,2026-03-26,OP-01,,Survey_Form_2026
+STU1364,Rohit Bose,Female,18.0,Aided,,Yes,N,14.7,79.0,56.1,,51.6,60.0,"March 18, 2026",OP-02,Re-checked,Survey_Form_2026
+STU1051,Keerthana Reddy,Male,15.0,Aided,High School,Yes,YES,16.7,82.6,56.6,68.4,54.5,59.1,2026-03-13,OP-02,Entered late,Survey_Form_2026
+STU1482,Naveen Menon,Male,19.0,private,High School,Y,yes,34.5,89.7,64.3,86.4,76.8,74.7,19/03/2026,OP-03,Form scanned,Survey_Form_2026
+STU1175,Keerthana Gupta,male,15.0,Aided,High School,Yes,N,35.8,78.5,77.0,76.4,74.0,78.7,2026-03-18,OP-01,Re-checked,Survey_Form_2026
+STU1446,Gokul Reddy,F,16.0,Government,Bachelor's,Yes,No,9.6,80.6,55.7,40.4,,56.6,2026-03-03,OP-01,Entered late,Survey_Form_2026
+STU1190,Divya Chandran,Male,16.0,Aided,High School,Yes,Yes,45.0,87.3,58.2,82.7,86.2,91.9,2026-03-24,OP-01,Entered late,Survey_Form_2026
+STU1154,ROHIT KRISHNAN,mALE,16.0,gOVERNMENT,Bachelor's,YES,Yes,20.2,86.2,73.7,79.2,80.3,66.6,15/03/2026,OP-02,,Survey_Form_2026
+STU1464,Swathi Bose,Female,16.0,government,High School,Yes,Yes,24.1,93.5,49.8,66.0,64.4,69.5,2026-03-07,OP-03,Re-checked,Survey_Form_2026
+STU1188,Sneha Chandran,male,19.0,Private,High School,No,n,18.4,100.0,75.3,,62.6,44.8,11/03/2026,OP-01,Form scanned,Survey_Form_2026
+STU1476,Anjali Rao,Female,15.0,Private,High School,,YES,16.6,92.1,45.6,47.9,66.8,73.4,2026-03-06,OP-03,,Survey_Form_2026
+STU1170,Suresh Krishnan,M,15.0,Aided,Master's,Yes,No,120.0,120.0,78.4,?,99.9,91.4,17-03-2026,OP-02,,Survey_Form_2026
+STU1059,Nandhini Kumar,female,17.0,Aided,High School,YES,N,13.9,81.2,46.0,52.7,57.8,37.0,2026-03-24,OP-02,,Survey_Form_2026
+STU1475,Deepika Iyer,M,16.0,Government,High School,Yes,Yes,12.6,100.0,35.8,48.6,61.3,55.9,2026-03-04,OP-03,,Survey_Form_2026
+STU1049,Naveen Krishnan,female,18.0,Private,Bachelor's,NO,Yes,8.7,100.0,59.1,60.4,50.4,52.7,17/03/2026,OP-03,Re-checked,Survey_Form_2026
+STU1345,Arun Kumar,Female,16.0,Government,Bachelor's,no,Yes,10.1,81.0,62.1,65.8,51.9,57.4,13/03/2026,OP-03,Entered late,Survey_Form_2026
+STU1236,Karthik Raj,M,19.0,Private,,Yes,No,16.2,72.7,70.7,76.7,58.7,53.6,"March 21, 2026",OP-03,Re-checked,Survey_Form_2026
+STU1253,Deepika Sharma,Male,19.0,Government,Diploma,Yes,no,15.2,89.3,51.9,53.3,120.0,41.9,2026-03-10,OP-03,Entered late,Survey_Form_2026
+STU1022,Sneha Selvam,Female,16.0,Government,Diploma,Yes,NO,,87.9,61.6,58.8,61.3,51.4,2026-03-25,OP-02,,Survey_Form_2026
+STU1314,Sanjay Menon,f,19.0,Aided,Diploma,Yes,y,24.8,84.6,63.3,72.3,78.3,54.9,2026-03-22,OP-03,Entered late,Survey_Form_2026
+STU1460,Divya Gupta,Female,19.0,aided,Bachelor's,YES,NO,5.8,81.8,34.5,34.4,105.0,45.1,2026-03-22,OP-01,Form scanned,Survey_Form_2026
+STU1161,Praveen Natarajan,,17.0,Government,,YES,y,12.5,87.6,30.8,39.9,42.7,56.1,2026-03-26,OP-02,Verified,Survey_Form_2026
+STU1277,Harish Reddy,Female,15.0,Private,,Yes,No,24.2,81.0%,48.8,68.2,60.0,65.1,27/03/2026,OP-02,,Survey_Form_2026
+STU1444,Manoj Raj,Male,18.0,Aided,High School,Yes,Yes,26.1,82.7,79.9,71.7,84.8,82.2,2026-03-23,OP-03,,Survey_Form_2026
+STU1192,Revathi Subramanian,Male,17.0,Private,High School,Yes,No,30.3,88.4,42.4,51.9,59.9,64.5,2026-03-11,OP-02,Re-checked,Survey_Form_2026
+STU1386,Kavya Nair,Female,16.0,Government,Master's,Yes,Y,13.7,70.3,,53.1,58.7,61.8,2026-03-20,OP-02,,Survey_Form_2026
+STU1294,Priya Subramanian,F,15.0,Government,High School,Yes,no,19.6,72.9,66.6,61.1,49.9,63.9,2026-03-19,OP-01,Verified,Survey_Form_2026
+STU1414,Lakshmi Pillai,f,18.0,Private,Master's,No,No,11.8,82.5,72.7,58.8,,71.8,2026-03-05,OP-03,Re-checked,Survey_Form_2026
+STU1492,Praveen Natarajan,Female,19.0,private,Bachelor's,No,No,29.6,82.0%,59.2,62.2,84.0,63.8,2026-03-09,OP-03,Entered late,Survey_Form_2026
+STU1344,Ishwarya Murugan,Male,19.0,Aided,,Y,NO,15.7,84.5,41.6,46.9,58.5,50.3,2026-03-14,OP-03,Entered late,Survey_Form_2026
+STU1258,Divya Venkatesh,Female,,Private,High School,no,No,18.9,84.4,63.6,61.3,56.3,63.4,04-03-2026,OP-03,Form scanned,Survey_Form_2026
+STU1309,Lakshmi Venkatesh,Male,16.0,Aided,High School,Yes,Yes,21.7,88.0,60.3,61.9,68.3,67.7,2026-03-08,OP-03,,Survey_Form_2026
+STU1150,Gokul Pillai,M,19.0,Government,High School,No,N,,94.5,73.1,74.5,66.5,59.6,2026-03-12,OP-02,Entered late,Survey_Form_2026
+STU1131,Karthik Gupta,M,18.0,Private,High School,No,No,11.9,80.8,56.5,,48.6,53.6,2026-03-05,OP-01,,Survey_Form_2026
+STU1152,Manoj Pillai,Female,17.0,private,Master's,No,yes,4.1,85.4,59.3,58.5,55.4,46.4,2026-03-02,OP-02,Entered late,Survey_Form_2026
+STU1360,Divya Murugan,m,18.0,Aided,Bachelor's,yes,Y,20.3,86.2%,53.2,,64.8,61.9,2026-03-12,OP-01,Verified,Survey_Form_2026
+STU1100,Vignesh Natarajan,Female,16.0,Private,MASTER'S,Yes,Yes,18.1,84.3,34.8,55.0,62.3,52.7,2026-03-19,OP-03,Entered late,Survey_Form_2026
+STU1373,Kavya Kumar,MALE,16.0,Private,Diploma,Yes,No,10.6,,62.5,63.3,53.8,69.2,2026-03-23,OP-02,,Survey_Form_2026
+STU1088,Sanjay Sharma,male,17.0,government,diploma,NO,No,17.1,83.9,59.1,53.3,,47.6,2026-03-09,OP-01,,Survey_Form_2026
+STU1459,Sneha Subramanian,female,19.0,Aided,Bachelor's,No,No,11.7,86.2,47.0,53.5,51.7,43.5,2026-03-17,OP-02,Form scanned,Survey_Form_2026
+STU1331,Sneha Venkatesh,MALE,16.0,Private,Bachelor's,No,N,11.7,78.3,74.6,,59.8,59.4,21/03/2026,OP-02,Verified,Survey_Form_2026
+STU1215,Revathi Murugan,Female,17.0,Private,Bachelor's,yes,yes,6.9,76.7,30.0,43.4,58.1,50.2,16 Mar 2026,OP-01,Entered late,Survey_Form_2026
+STU1467,Deepika Selvam,Female,16.0,Private,Bachelor's,Yes,No,17.4,85.1,58.8,69.4,,66.9,2026-03-10,OP-03,,Survey_Form_2026
+STU1122,Karthik Raj,Female,17.0,Aided,Bachelor's,y,No,12.6,77.3,30.3,37.6,46.9,42.6,2026-03-17,OP-02,,Survey_Form_2026
+STU1021,Deepika Natarajan,Female,18.0,Private,Bachelor's,No,Yes,19.5,86.1,40.1,54.1,55.0,54.7,19/03/2026,OP-02,,Survey_Form_2026
+STU1072,Suresh Venkatesh,Male,19.0, Private,DIPLOMA,Yes,No,23.8,85.1,76.4,65.0,64.4,52.3,2026-03-10,OP-01,Entered late,Survey_Form_2026
+STU1107,Janani Subramanian,MALE,18.0,Private,Diploma,Y,NO,10.7,95.6,60.9,58.3,,48.2,2026-03-06,OP-03,Verified,Survey_Form_2026
+STU1271,Lakshmi Bose,Male,16.0,Government,High School,No,n,15.4,87.3,53.0,45.1,52.6,56.0,"March 10, 2026",OP-02,Form scanned,Survey_Form_2026
+STU1436,Karthik Nair,Male,19.0,Government,High School,,y,15.5,80.4%,45.5,61.1,59.2,47.0,2026-03-16,OP-02,,Survey_Form_2026
+STU1103,Sneha Balaji,male,17.0,Private,High School,N,No,12.7,,50.5,54.4,51.8,45.4,"March 04, 2026",OP-02,Entered late,Survey_Form_2026

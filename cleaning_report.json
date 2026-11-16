@@ -1,0 +1,196 @@
+{
+  "rows_before": 526,
+  "cols_before": 18,
+  "missing_before": {
+    "internal_remarks": 231,
+    "study_hours_per_week": 28,
+    "english_score": 28,
+    "gender": 27,
+    "science_score": 27,
+    "internet_access": 26,
+    "math_score": 26,
+    "age": 26,
+    "parental_education": 26,
+    "previous_score": 25,
+    "attendance_percent": 25,
+    "student_id": 0,
+    "student_name": 0,
+    "school_type": 0,
+    "extra_classes": 0,
+    "exam_date": 0,
+    "data_entry_operator": 0,
+    "record_source": 0
+  },
+  "missing_before_total": 495,
+  "rows_with_missing_before": 343,
+  "distinct_labels_before": {
+    "gender": 11,
+    "internet_access": 10,
+    "extra_classes": 10,
+    "school_type": 18
+  },
+  "attendance_text_values_before": 60,
+  "duplicate_ids_before": 26,
+  "exact_duplicates": 20,
+  "date_formats_before": 5,
+  "invalid_values": {
+    "age": 3,
+    "study_hours_per_week": 0,
+    "attendance_percent": 4,
+    "previous_score": 0,
+    "math_score": 3,
+    "science_score": 2,
+    "english_score": 2
+  },
+  "invalid_total": 14,
+  "near_duplicates": 6,
+  "duplicates_removed_total": 26,
+  "imputation": {
+    "age": {
+      "method": "median",
+      "value": 17.0,
+      "filled": 28
+    },
+    "study_hours_per_week": {
+      "method": "median",
+      "value": 17.1,
+      "filled": 25
+    },
+    "attendance_percent": {
+      "method": "median",
+      "value": 85.1,
+      "filled": 29
+    },
+    "previous_score": {
+      "method": "median",
+      "value": 54.8,
+      "filled": 25
+    },
+    "math_score": {
+      "method": "median",
+      "value": 58.2,
+      "filled": 28
+    },
+    "science_score": {
+      "method": "median",
+      "value": 59.0,
+      "filled": 27
+    },
+    "english_score": {
+      "method": "median",
+      "value": 57.9,
+      "filled": 27
+    },
+    "gender": {
+      "method": "mode",
+      "value": "Male",
+      "filled": 25
+    },
+    "school_type": {
+      "method": "mode",
+      "value": "Government",
+      "filled": 0
+    },
+    "parental_education": {
+      "method": "mode",
+      "value": "High School",
+      "filled": 25
+    },
+    "internet_access": {
+      "method": "mode",
+      "value": "Yes",
+      "filled": 25
+    },
+    "extra_classes": {
+      "method": "mode",
+      "value": "No",
+      "filled": 0
+    }
+  },
+  "outliers": {
+    "study_hours_per_week": {
+      "lower": -3.0,
+      "upper": 37.8,
+      "below": 0,
+      "above": 18,
+      "count": 18
+    },
+    "attendance_percent": {
+      "lower": 63.23,
+      "upper": 107.02,
+      "below": 2,
+      "above": 0,
+      "count": 2
+    },
+    "previous_score": {
+      "lower": 24.3,
+      "upper": 86.7,
+      "below": 2,
+      "above": 6,
+      "count": 8
+    },
+    "math_score": {
+      "lower": 30.39,
+      "upper": 88.49,
+      "below": 4,
+      "above": 6,
+      "count": 10
+    },
+    "science_score": {
+      "lower": 30.15,
+      "upper": 88.15,
+      "below": 2,
+      "above": 8,
+      "count": 10
+    },
+    "english_score": {
+      "lower": 27.46,
+      "upper": 88.36,
+      "below": 2,
+      "above": 6,
+      "count": 8
+    }
+  },
+  "outliers_total": 56,
+  "columns_added": [
+    "average_score",
+    "grade",
+    "study_level"
+  ],
+  "columns_dropped": [
+    "student_name",
+    "data_entry_operator",
+    "internal_remarks",
+    "record_source"
+  ],
+  "rows_after": 500,
+  "cols_after": 17,
+  "missing_after_total": 0,
+  "missing_after": {
+    "student_id": 0,
+    "gender": 0,
+    "age": 0,
+    "school_type": 0,
+    "parental_education": 0,
+    "internet_access": 0,
+    "extra_classes": 0,
+    "study_hours_per_week": 0,
+    "attendance_percent": 0,
+    "previous_score": 0,
+    "math_score": 0,
+    "science_score": 0,
+    "english_score": 0,
+    "exam_date": 0,
+    "average_score": 0,
+    "grade": 0,
+    "study_level": 0
+  },
+  "invalid_after": 0,
+  "outliers_after": 0,
+  "distinct_labels_after": {
+    "gender": 2,
+    "internet_access": 2,
+    "extra_classes": 2,
+    "school_type": 3
+  }
+}
